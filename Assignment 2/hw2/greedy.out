@@ -633,7 +633,7 @@
 5	keep	VB
 6	clients	NNS
 7	from	IN
-8	fleeing	VBG
+8	fleeing	NNP
 9	the	DT
 10	market	NN
 11	,	,
@@ -680,7 +680,7 @@
 
 1	PaineWebber	NNP
 2	Inc.	NNP
-3	filmed	VBN
+3	filmed	NNP
 4	a	DT
 5	new	JJ
 6	television	NN
@@ -767,8 +767,8 @@
 9	Co.	NNP
 10	,	,
 11	were	VBD
-12	plotting	VBG
-13	out	RP
+12	plotting	CD
+13	out	IN
 14	potential	JJ
 15	new	JJ
 16	ad	NN
@@ -1154,7 +1154,7 @@
 26	investment	NN
 27	strategists	NNS
 28	,	,
-29	sounding	VBG
+29	sounding	NNP
 30	particularly	RB
 31	bullish	JJ
 32	.	.
@@ -1553,7 +1553,7 @@
 3	,	,
 4	despite	IN
 5	a	DT
-6	barrage	NN
+6	barrage	JJ
 7	of	IN
 8	ads	NNS
 9	from	IN
@@ -1570,7 +1570,7 @@
 20	the	DT
 21	market	NN
 22	en	IN
-23	masse	NN
+23	masse	NNP
 24	.	.
 
 1	Now	RB
@@ -1724,7 +1724,7 @@
 12	.	.
 
 1	EDUCATION	NNP
-2	ADS	NNPS
+2	ADS	NNP
 3	:	:
 
 1	A	DT
@@ -2138,7 +2138,7 @@
 27	doubt	NN
 28	,	,
 29	future	JJ
-30	droughts	NNS
+30	droughts	NN
 31	.	.
 
 1	Mark	NNP
@@ -2169,7 +2169,7 @@
 26	in	IN
 27	the	DT
 28	five-game	JJ
-29	Dodger	NNP
+29	Dodger	NN
 30	series	NN
 31	in	IN
 32	which	WDT
@@ -2319,7 +2319,7 @@
 23	hits	NNS
 24	in	IN
 25	seven	CD
-26	innings	NNS
+26	innings	CD
 27	in	IN
 28	Sunday	NNP
 29	's	POS
@@ -2360,7 +2360,7 @@
 8	of	IN
 9	the	DT
 10	leading	JJ
-11	gurus	NNS
+11	gurus	NN
 12	of	IN
 13	the	DT
 14	fashionable	JJ
@@ -2625,7 +2625,7 @@
 2	above	JJ
 3	represents	VBZ
 4	a	DT
-5	triumph	NN
+5	triumph	JJ
 6	of	IN
 7	either	DT
 8	apathy	JJ
@@ -2867,7 +2867,7 @@
 7	second	JJ
 8	game	NN
 9	was	VBD
-10	Rickey	NNP
+10	Rickey	CD
 11	Henderson	NNP
 12	,	,
 13	who	WP
@@ -3045,7 +3045,7 @@
 11	declared	VBD
 12	San	NNP
 13	Francisco	NNP
-14	batting	NN
+14	batting	NNP
 15	coach	NN
 16	Dusty	NN
 17	Baker	NNP
@@ -3084,10 +3084,10 @@
 1	But	CC
 2	the	DT
 3	old	JJ
-4	Dodger	NNP
-5	slugger	NNP
-6	wisely	RB
-7	offered	VBN
+4	Dodger	NN
+5	slugger	NN
+6	wisely	NN
+7	offered	VBD
 8	no	DT
 9	prediction	NN
 10	about	IN
@@ -3552,7 +3552,7 @@
 33	share	NN
 34	.	.
 
-1	Revenues	NNS
+1	Revenues	NNP
 2	declined	VBD
 3	1	CD
 4	%	NN
@@ -3601,7 +3601,7 @@
 12	'	POS
 13	Pay	JJ
 14	to	TO
-15	Performance	NNP
+15	Performance	VB
 16	,	,
 17	''	''
 18	I	PRP
@@ -3831,7 +3831,7 @@
 12	,	,
 13	3:30	NNP
 14	,	,
-15	4:30	CD
+15	4:30	NNP
 16	.	.
 
 1	People	NNS
@@ -3868,7 +3868,7 @@
 12	day	NN
 13	that	IN
 14	started	VBN
-15	nervously	RB
+15	nervously	JJ
 16	in	IN
 17	the	DT
 18	small	JJ
@@ -3900,7 +3900,7 @@
 12	,	,
 13	the	DT
 14	City	NNP
-15	breathed	VBD
+15	breathed	NNP
 16	a	DT
 17	sigh	NN
 18	of	IN
@@ -4211,7 +4211,7 @@
 3	most	RBS
 4	of	IN
 5	its	PRP$
-6	energies	NNS
+6	energies	JJ
 7	in	IN
 8	the	DT
 9	morning	NN
@@ -4539,7 +4539,7 @@
 24	still	RB
 25	...	:
 26	extremely	RB
-27	dangerously	RB
+27	dangerously	JJ
 28	poised	VBN
 29	...	:
 
@@ -4809,7 +4809,7 @@
 5	dumped	VBD
 6	American	NNP
 7	Depositary	NNP
-8	Receipts	NNPS
+8	Receipts	NNP
 9	in	IN
 10	Jaguar	NNP
 11	PLC	NNP
@@ -4826,7 +4826,7 @@
 22	resell	VB
 23	in	IN
 24	the	DT
-25	U.K	NNP
+25	U.K	JJ
 26	.	.
 
 1	Investors	NNP
@@ -4886,7 +4886,7 @@
 25	suddenly	RB
 26	indicated	VBN
 27	a	DT
-28	turnabout	NN
+28	turnabout	JJ
 29	.	.
 
 1	As	IN
@@ -4969,7 +4969,7 @@
 5	rallied	VBD
 6	,	,
 7	some	DT
-8	wondered	VBD
+8	wondered	JJ
 9	whether	IN
 10	the	DT
 11	weekend	NN
@@ -5354,7 +5354,7 @@
 19	there	EX
 20	is	VBZ
 21	``	``
-22	wiggle	VBP
+22	wiggle	JJ
 23	room	NN
 24	''	''
 25	in	IN
@@ -5787,7 +5787,7 @@
 4	prelude	NN
 5	to	TO
 6	the	DT
-7	resumption	NN
+7	resumption	JJ
 8	of	IN
 9	talks	NNS
 10	between	IN
@@ -5849,7 +5849,7 @@
 32	step	NN
 33	toward	IN
 34	a	DT
-35	resumption	NN
+35	resumption	JJ
 36	of	IN
 37	negotiations	NNS
 38	.	.
@@ -5937,7 +5937,7 @@
 7	the	DT
 8	strike	NN
 9	has	VBZ
-10	idled	VBN
+10	idled	JJ
 11	about	IN
 12	55,000	CD
 13	machinists	NNS
@@ -6023,7 +6023,7 @@
 10	plant	NN
 11	,	,
 12	about	IN
-13	2,400	CD
+13	2,400	NNP
 14	of	IN
 15	the	DT
 16	11,700	JJ
@@ -6162,7 +6162,7 @@
 10	made	VBD
 11	a	DT
 12	$	$
-13	15-a-share	JJ
+13	15-a-share	CD
 14	bid	NN
 15	for	IN
 16	the	DT
@@ -6342,7 +6342,7 @@
 6	``	``
 7	opportunistic	JJ
 8	and	CC
-9	disruptive	JJ
+9	disruptive	NNP
 10	''	''
 11	and	CC
 12	said	VBD
@@ -6431,7 +6431,7 @@
 27	DAX	NNP
 28	Index	NNP
 29	dropping	VBG
-30	12.8	CD
+30	12.8	JJ
 31	%	NN
 32	.	.
 
@@ -7143,7 +7143,7 @@
 10	London	NNP
 11	stock	NN
 12	market	NN
-13	recouped	VBD
+13	recouped	NN
 14	two-thirds	NNS
 15	of	IN
 16	its	PRP$
@@ -7211,7 +7211,7 @@
 19	Assurance	NNP
 20	Co.	NNP
 21	that	IN
-22	spearheaded	VBN
+22	spearheaded	NNP
 23	the	DT
 24	rally	NN
 25	.	.
@@ -7316,8 +7316,8 @@
 23	in	IN
 24	brokerage	NN
 25	firm	NN
-26	Cholet	NNP
-27	Dupont	NNP
+26	Cholet	NN
+27	Dupont	NN
 28	.	.
 
 1	``	``
@@ -7692,7 +7692,7 @@
 17	had	VBD
 18	they	PRP
 19	been	VBN
-20	accruing	VBG
+20	accruing	JJ
 21	interest	NN
 22	,	,
 23	net	JJ
@@ -7906,7 +7906,7 @@
 4	,	,
 5	however	RB
 6	,	,
-7	contrasted	VBN
+7	contrasted	NNP
 8	with	IN
 9	an	DT
 10	unexpectedly	RB
@@ -8074,7 +8074,7 @@
 19	3.38	VB
 20	%	NN
 21	from	IN
-22	3.80	CD
+22	3.80	NNP
 23	%	NN
 24	a	DT
 25	year	NN
@@ -8481,7 +8481,7 @@
 13	,	,
 14	and	CC
 15	an	DT
-16	18.9	CD
+16	18.9	JJ
 17	%	NN
 18	return	NN
 19	on	IN
@@ -8943,7 +8943,7 @@
 14	Co.	NNP
 15	's	POS
 16	$	$
-17	18-a-share	JJ
+17	18-a-share	CD
 18	offer	NN
 19	for	IN
 20	the	DT
@@ -9070,7 +9070,7 @@
 12	launched	VBN
 13	an	DT
 14	$	$
-15	18-a-share	JJ
+15	18-a-share	CD
 16	,	,
 17	or	CC
 18	$	$
@@ -9441,7 +9441,7 @@
 17	to	TO
 18	be	VB
 19	brought	VBN
-20	ashore	RB
+20	ashore	JJ
 21	in	IN
 22	British	JJ
 23	Columbia	NNP
@@ -9639,7 +9639,7 @@
 7	'Cause	NN
 8	his	PRP$
 9	receiver	NN
-10	slips	VBZ
+10	slips	NN
 11	Should	MD
 12	somehow	RB
 13	be	VB
@@ -9763,7 +9763,7 @@
 13	receive	VB
 14	additional	JJ
 15	warrants	NNS
-16	entitling	VBG
+16	entitling	JJ
 17	it	PRP
 18	to	TO
 19	buy	VB
@@ -9909,7 +9909,7 @@
 17	firm	NN
 18	's	POS
 19	Global	JJ
-20	Spectator	NNP
+20	Spectator	NN
 21	:	:
 
 1	Were	VBD
@@ -10067,7 +10067,7 @@
 11	notes	NNS
 12	and	CC
 13	64	CD
-14	common-stock	JJ
+14	common-stock	CD
 15	warrants	NNS
 16	for	IN
 17	each	DT
@@ -10258,8 +10258,8 @@
 2	Merrill	NNP
 3	Lynch	NNP
 4	,	,
-5	third-period	JJ
-6	net	JJ
+5	third-period	NNP
+6	net	NN
 7	was	VBD
 8	$	$
 9	41	CD
@@ -10884,7 +10884,7 @@
 7	because	IN
 8	we	PRP
 9	all	DT
-10	swim	VBP
+10	swim	JJ
 11	in	IN
 12	this	DT
 13	water	NN
@@ -10950,7 +10950,7 @@
 9	not	RB
 10	yet	RB
 11	sufficiently	RB
-12	coordinated	VBN
+12	coordinated	JJ
 13	to	TO
 14	handle	VB
 15	another	DT
@@ -11065,7 +11065,7 @@
 3	is	VBZ
 4	that	IN
 5	an	DT
-6	interruption	NN
+6	interruption	JJ
 7	of	IN
 8	trading	NN
 9	will	MD
@@ -11153,7 +11153,7 @@
 6	worst	JJS
 7	of	IN
 8	all	DT
-9	worlds	NNS
+9	worlds	JJ
 10	.	.
 
 1	The	DT
@@ -11506,7 +11506,7 @@
 16	joint	JJ
 17	conditions	NNS
 18	for	IN
-19	halting	VBG
+19	halting	NNP
 20	trading	NN
 21	or	CC
 22	staying	VBG
@@ -11648,7 +11648,7 @@
 14	the	DT
 15	SEC	NNP
 16	,	,
-17	regulates	VBZ
+17	regulates	NNP
 18	the	DT
 19	Chicago	NNP
 20	stock-index	NN
@@ -12114,7 +12114,7 @@
 10	,	,
 11	stranding	NNP
 12	three	CD
-13	runners	NNS
+13	runners	CD
 14	in	IN
 15	...	:
 16	the	DT
@@ -12243,11 +12243,11 @@
 4	better	JJR
 5	retirement	NN
 6	and	CC
-7	day-care	JJ
+7	day-care	NNP
 8	benefits	NNS
 9	,	,
 10	and	CC
-11	basing	VBG
+11	basing	NNP
 12	pay	NN
 13	on	IN
 14	education	NN
@@ -12319,8 +12319,8 @@
 16	ladder	NN
 17	,	,
 18	''	''
-19	basing	VBG
-20	advancement	JJ
+19	basing	NNP
+20	advancement	NNP
 21	on	IN
 22	performance	NN
 23	and	CC
@@ -12442,7 +12442,7 @@
 34	.	.
 
 1	SPRUCING	NNP
-2	UP	RP
+2	UP	NNP
 3	THE	DT
 4	DIGS	JJ
 5	:	:
@@ -12464,7 +12464,7 @@
 21	painted	VBN
 22	walls	NNS
 23	,	,
-24	polished	VBN
+24	polished	NNP
 25	and	CC
 26	carpeted	NNP
 27	floors	NNS
@@ -12525,7 +12525,7 @@
 22	companies	NNS
 23	with	IN
 24	pacts	NNP
-25	expiring	VBG
+25	expiring	NNP
 26	next	JJ
 27	year	NN
 28	indicates	VBZ
@@ -12539,7 +12539,7 @@
 6	%	NN
 7	aim	NN
 8	for	IN
-9	first-year	JJ
+9	first-year	NNP
 10	wage	NN
 11	increases	NNS
 12	of	IN
@@ -12568,7 +12568,7 @@
 35	.	.
 
 1	TEMPORARY	NNP
-2	WORKERS	NNPS
+2	WORKERS	NNP
 3	have	VBP
 4	good	JJ
 5	educations	NN
@@ -12820,7 +12820,7 @@
 27	.	.
 
 1	THE	DT
-2	CHECKOFF	NN
+2	CHECKOFF	JJ
 3	:	:
 4	The	DT
 5	National	NNP
@@ -12893,7 +12893,7 @@
 22	normal	JJ
 23	,	,
 24	400	CD
-25	million-share	JJ
+25	million-share	CD
 26	,	,
 27	up	RB
 28	88-points	JJ
@@ -13046,7 +13046,7 @@
 12	within	IN
 13	the	DT
 14	600	CD
-15	million-share	JJ
+15	million-share	CD
 16	capacity	NN
 17	that	IN
 18	the	DT
@@ -13177,7 +13177,7 @@
 2	Chains	NNP
 3	Ruffled	NNP
 4	By	IN
-5	Loss	NN
+5	Loss	NNP
 6	of	IN
 7	Customers	NNS
 
@@ -13203,7 +13203,7 @@
 20	.	.
 
 1	The	DT
-2	Crest	NNP
+2	Crest	JJ
 3	Report	NNP
 4	,	,
 5	which	WDT
@@ -13426,7 +13426,7 @@
 15	hit	NN
 16	with	IN
 17	stay-at-home	NNP
-18	diners	NNS
+18	diners	NNP
 19	.	.
 
 1	But	CC
@@ -13600,7 +13600,7 @@
 14	exposure	NN
 15	yet	RB
 16	shun	JJ
-17	pushy	JJ
+17	pushy	NN
 18	ads	NNS
 19	.	.
 
@@ -13700,7 +13700,7 @@
 18	``	``
 19	Building	NNP
 20	a	DT
-21	Place	NNP
+21	Place	JJ
 22	to	TO
 23	Park	NNP
 24	.	.
@@ -13728,7 +13728,7 @@
 20	.	.
 21	''	''
 
-1	Hospitals	NNPS
+1	Hospitals	NNP
 2	have	VBP
 3	signed	VBN
 4	up	RP
@@ -13899,7 +13899,7 @@
 24	and	CC
 25	other	JJ
 26	noncorrosive	NN
-27	cleaners	NNS
+27	cleaners	NN
 28	.	.
 
 1	But	CC
@@ -13907,7 +13907,7 @@
 3	chain	NN
 4	is	VBZ
 5	quickly	RB
-6	realizing	VBG
+6	realizing	JJ
 7	the	DT
 8	pitfalls	NNS
 9	of	IN
@@ -13954,7 +13954,7 @@
 3	spokesman	NN
 4	questioned	VBD
 5	the	DT
-6	validity	NN
+6	validity	JJ
 7	of	IN
 8	the	DT
 9	list	NN
@@ -13968,7 +13968,7 @@
 17	all	DT
 18	major	JJ
 19	dishwasher	NN
-20	detergents	NNS
+20	detergents	NN
 21	.	.
 
 1	In	IN
@@ -14075,7 +14075,7 @@
 5	care	VB
 6	for	IN
 7	disposable	JJ
-8	diapers	NNS
+8	diapers	NN
 9	,	,
 10	which	WDT
 11	are	VBP
@@ -14230,7 +14230,7 @@
 8	has	VBZ
 9	chosen	VBN
 10	Antonia	JJ
-11	Novello	NNP
+11	Novello	NN
 12	to	TO
 13	be	VB
 14	the	DT
@@ -14399,7 +14399,7 @@
 
 1	Nevertheless	RB
 2	,	,
-3	lobbies	NNS
+3	lobbies	NNP
 4	such	JJ
 5	as	IN
 6	the	DT
@@ -14751,7 +14751,7 @@
 45	the	DT
 46	availability	NN
 47	of	IN
-48	variable-rate	JJ
+48	variable-rate	NNP
 49	mortgages	NNS
 50	;	:
 51	expand	VB
@@ -15042,7 +15042,7 @@
 
 1	In	IN
 2	its	PRP$
-3	nicely	RB
+3	nicely	JJ
 4	produced	VBN
 5	publication	NN
 6	``	``
@@ -15181,7 +15181,7 @@
 20	many	JJ
 21	other	JJ
 22	business	NN
-23	lobbies	NNS
+23	lobbies	NN
 24	.	.
 
 1	Explains	NNP
@@ -15198,7 +15198,7 @@
 12	treads	VBZ
 13	in	IN
 14	two	CD
-15	worlds	NNS
+15	worlds	CD
 16	.	.
 
 1	The	DT
@@ -15340,14 +15340,14 @@
 17	municipalities	NNS
 18	that	IN
 19	are	VBP
-20	wrecking	VBG
+20	wrecking	JJ
 21	their	PRP$
 22	local	JJ
 23	housing	NN
 24	markets	NNS
 25	will	MD
 26	further	RB
-27	insulate	VB
+27	insulate	JJ
 28	them	PRP
 29	from	IN
 30	the	DT
@@ -15647,7 +15647,7 @@
 23	over	IN
 24	by	IN
 25	the	DT
-26	parade	NN
+26	parade	JJ
 27	.	.
 
 1	When	WRB
@@ -15687,7 +15687,7 @@
 3	marshal	NN
 4	of	IN
 5	this	DT
-6	parade	NN
+6	parade	JJ
 7	would	MD
 8	appear	VB
 9	to	TO
@@ -15798,7 +15798,7 @@
 5	made	VBD
 6	up	RP
 7	the	DT
-8	parade	NN
+8	parade	JJ
 9	,	,
 10	of	IN
 11	course	NN
@@ -16341,7 +16341,7 @@
 6	private	JJ
 7	markets	NNS
 8	are	VBP
-9	approving	VBG
+9	approving	JJ
 10	of	IN
 11	Washington	NNP
 12	's	POS
@@ -16351,7 +16351,7 @@
 16	Street	NNP
 17	?	.
 
-1	Absolutely	RB
+1	Absolutely	NNP
 2	not	RB
 3	.	.
 
@@ -16446,7 +16446,7 @@
 14	for	IN
 15	recent	JJ
 16	deals	NNS
-17	underscores	VBZ
+17	underscores	JJ
 18	the	DT
 19	wisdom	NN
 20	of	IN
@@ -16493,7 +16493,7 @@
 34	will	MD
 35	move	VB
 36	with	IN
-37	lightning	NN
+37	lightning	NNP
 38	speed	NN
 39	to	TO
 40	impose	VB
@@ -16565,7 +16565,7 @@
 10	must	MD
 11	concede	VB
 12	that	IN
-13	speedy	JJ
+13	speedy	NNP
 14	and	CC
 15	effective	JJ
 16	relief	NN
@@ -17108,7 +17108,7 @@
 3	the	DT
 4	absence	NN
 5	of	IN
-6	panicky	JJ
+6	panicky	NNP
 7	trading	NN
 8	,	,
 9	its	PRP$
@@ -17455,7 +17455,7 @@
 6	were	VBD
 7	looking	VBG
 8	ahead	RB
-9	nervously	RB
+9	nervously	JJ
 10	to	TO
 11	Wall	NNP
 12	Street	NNP
@@ -17692,7 +17692,7 @@
 15	''	''
 16	said	VBD
 17	Masato	CD
-18	Murakami	NNP
+18	Murakami	CD
 19	,	,
 20	chief	JJ
 21	portfolio	NN
@@ -18039,7 +18039,7 @@
 24	so	RB
 25	investors	NNS
 26	who	WP
-27	bailed	VBD
+27	bailed	VBZ
 28	out	RP
 29	generally	RB
 30	did	VBD
@@ -18248,7 +18248,7 @@
 30	Australian	JJ
 31	stocks	NNS
 32	and	CC
-33	shunned	VBD
+33	shunned	NNP
 34	entrepreneurial	JJ
 35	companies	NNS
 36	they	PRP
@@ -18365,7 +18365,7 @@
 10	points	NNS
 11	,	,
 12	or	CC
-13	12.8	CD
+13	12.8	NNP
 14	%	NN
 15	,	,
 16	to	TO
@@ -18430,7 +18430,7 @@
 27	continued	VBD
 28	to	TO
 29	decline	VB
-30	steeply	RB
+30	steeply	JJ
 31	for	IN
 32	the	DT
 33	next	JJ
@@ -18890,7 +18890,7 @@
 3	here	RB
 4	is	VBZ
 5	the	DT
-6	ambition	NN
+6	ambition	JJ
 7	of	IN
 8	state	NN
 9	Attorney	NNP
@@ -18931,7 +18931,7 @@
 21	into	IN
 22	a	DT
 23	single	JJ
-24	unwieldy	JJ
+24	unwieldy	NN
 25	initiative	NN
 26	to	TO
 27	be	VB
@@ -19112,7 +19112,7 @@
 6	recently	RB
 7	passed	VBN
 8	the	DT
-9	Prop.	NNP
+9	Prop.	JJ
 10	65	CD
 11	anti-toxic	CD
 12	initiative	NN
@@ -19399,7 +19399,7 @@
 27	plunge	NN
 28	,	,
 29	gaining	VBG
-30	88.12	CD
+30	88.12	JJ
 31	to	TO
 32	2657.38	VB
 33	.	.
@@ -19464,7 +19464,7 @@
 23	huge	JJ
 24	buying	NN
 25	by	IN
-26	bargain-hunting	NN
+26	bargain-hunting	NNP
 27	institutions	NNS
 28	and	CC
 29	program	NN
@@ -19486,7 +19486,7 @@
 13	,	,
 14	975	NNP
 15	to	TO
-16	749	CD
+16	749	VB
 17	,	,
 18	and	CC
 19	the	DT
@@ -19620,7 +19620,7 @@
 17	56	CD
 18	7\/8	CD
 19	to	TO
-20	222	CD
+20	222	VB
 21	7\/8	CD
 22	on	IN
 23	nearly	RB
@@ -19836,7 +19836,7 @@
 20	2	CD
 21	3\/4	CD
 22	to	TO
-23	117	CD
+23	117	VB
 24	.	.
 
 1	The	DT
@@ -20002,7 +20002,7 @@
 21	until	IN
 22	the	DT
 23	market	NN
-24	stabilized	VBN
+24	stabilized	NN
 25	.	.
 
 1	They	PRP
@@ -20017,7 +20017,7 @@
 5	slide	NN
 6	,	,
 7	losing	VBG
-8	63.52	CD
+8	63.52	JJ
 9	in	IN
 10	the	DT
 11	first	JJ
@@ -20133,7 +20133,7 @@
 5	trader	NN
 6	,	,
 7	the	DT
-8	programmers	NNS
+8	programmers	JJ
 9	``	``
 10	did	VBD
 11	n't	RB
@@ -20156,7 +20156,7 @@
 28	a	DT
 29	lot	NN
 30	of	IN
-31	bargain-hunting	NN
+31	bargain-hunting	NNP
 32	''	''
 33	by	IN
 34	institutions	NNS
@@ -20330,7 +20330,7 @@
 23	.	.
 24	''	''
 
-1	Around	IN
+1	Around	NNP
 2	Wall	NNP
 3	Street	NNP
 4	,	,
@@ -20377,7 +20377,7 @@
 19	the	DT
 20	opening	NN
 21	was	VBD
-22	constructive	JJ
+22	constructive	CD
 23	.	.
 
 1	It	PRP
@@ -20512,7 +20512,7 @@
 25	.	.
 26	''	''
 
-1	Around	IN
+1	Around	NNP
 2	him	PRP
 3	,	,
 4	scores	NNS
@@ -20815,7 +20815,7 @@
 15	in	IN
 16	with	IN
 17	a	DT
-18	vengeance	NN
+18	vengeance	JJ
 19	.	.
 20	''	''
 
@@ -21120,7 +21120,7 @@
 4	UAL	NNP
 5	and	CC
 6	AMR	NNP
-7	tumbles	VBZ
+7	tumbles	NNP
 8	,	,
 9	airlines	NNS
 10	were	VBD
@@ -21482,11 +21482,11 @@
 18	all	DT
 19	the	DT
 20	participants	NNS
-21	behaved	VBD
+21	behaved	JJ
 22	very	RB
 23	,	,
 24	very	RB
-25	responsibly	RB
+25	responsibly	JJ
 26	today	NN
 27	.	.
 28	''	''
@@ -22101,7 +22101,7 @@
 
 1	From	IN
 2	the	DT
-3	outset	NN
+3	outset	JJ
 4	,	,
 5	the	DT
 6	tobacco	NN
@@ -22196,7 +22196,7 @@
 16	the	DT
 17	subject	JJ
 18	of	IN
-19	behind-the-scenes	JJ
+19	behind-the-scenes	NNP
 20	lobbying	NN
 21	because	IN
 22	of	IN
@@ -22464,7 +22464,7 @@
 26	%	NN
 27	of	IN
 28	the	DT
-29	gates	NNS
+29	gates	JJ
 30	.	.
 
 1	But	CC
@@ -22851,10 +22851,10 @@
 22	its	PRP$
 23	movies	NNS
 24	``	``
-25	Gorillas	NNP
+25	Gorillas	JJ
 26	in	IN
 27	the	DT
-28	Mist	NNP
+28	Mist	JJ
 29	''	''
 30	and	CC
 31	``	``
@@ -22865,7 +22865,7 @@
 36	well	RB
 37	as	IN
 38	the	DT
-39	box-office	NN
+39	box-office	JJ
 40	smash	NN
 41	``	``
 42	Batman	NNP
@@ -23453,7 +23453,7 @@
 14	market	NN
 15	found	VBD
 16	its	PRP$
-17	legs	NNS
+17	legs	JJ
 18	,	,
 19	''	''
 20	he	PRP
@@ -23733,7 +23733,7 @@
 5	more	JJR
 6	evident	JJ
 7	among	IN
-8	shorter-term	JJR
+8	shorter-term	NNP
 9	Treasury	NNP
 10	securities	NNS
 11	.	.
@@ -24171,7 +24171,7 @@
 12	yesterday	NN
 13	that	IN
 14	it	PRP
-15	overshadowed	VBN
+15	overshadowed	VBZ
 16	today	NN
 17	's	POS
 18	slate	NN
@@ -24504,7 +24504,7 @@
 21	9\/32	CD
 22	to	TO
 23	yield	VB
-24	7.84	CD
+24	7.84	JJ
 25	%	NN
 26	.	.
 
@@ -24572,7 +24572,7 @@
 16	the	DT
 17	average	JJ
 18	of	IN
-19	7.35	CD
+19	7.35	NNP
 20	%	NN
 21	at	IN
 22	the	DT
@@ -25190,7 +25190,7 @@
 5	seemed	VBD
 6	to	TO
 7	be	VB
-8	hugging	VBG
+8	hugging	JJ
 9	the	DT
 10	sidelines	NNS
 11	until	IN
@@ -25247,7 +25247,7 @@
 8	%	NN
 9	issue	NN
 10	of	IN
-11	2023	CD
+11	2023	NNP
 12	was	VBD
 13	5\/8	CD
 14	point	NN
@@ -25706,7 +25706,7 @@
 2	detailing	VBG
 3	specific	JJ
 4	product	NN
-5	breakdowns	NNS
+5	breakdowns	NN
 6	,	,
 7	Nintendo	NNP
 8	credited	VBD
@@ -25933,7 +25933,7 @@
 16	Spain	NNP
 17	and	CC
 18	the	DT
-19	U.K	NNP
+19	U.K	JJ
 20	.	.
 
 1	It	PRP
@@ -25954,7 +25954,7 @@
 16	,	,
 17	compressors	NNP
 18	,	,
-19	cranes	NNS
+19	cranes	NNP
 20	,	,
 21	forklifts	NNP
 22	and	CC
@@ -26494,7 +26494,7 @@
 7	Oct.	NNP
 8	13	CD
 9	,	,
-10	16.1	CD
+10	16.1	NNP
 11	million	CD
 12	shares	NNS
 13	,	,
@@ -26693,7 +26693,7 @@
 14	under	IN
 15	the	DT
 16	Gloria	JJ
-17	Vanderbilt	NNP
+17	Vanderbilt	NN
 18	trademark	NN
 19	,	,
 20	which	WDT
@@ -27347,7 +27347,7 @@
 8	resurging	JJ
 9	market	NN
 10	,	,
-11	reviving	VBG
+11	reviving	NNP
 12	some	DT
 13	black-and-white	JJ
 14	product	NN
@@ -27609,8 +27609,8 @@
 7	,	,
 8	''	''
 9	says	VBZ
-10	Laurie	NNP
-11	DiCara	NNP
+10	Laurie	JJ
+11	DiCara	NN
 12	,	,
 13	Ilford	NNP
 14	's	POS
@@ -28066,7 +28066,7 @@
 3	it	PRP
 4	must	MD
 5	be	VB
-6	mailed	VBN
+6	mailed	JJ
 7	to	TO
 8	a	DT
 9	handful	NN
@@ -28158,7 +28158,7 @@
 9	also	RB
 10	increasing	VBG
 11	its	PRP$
-12	sponsorship	NN
+12	sponsorship	JJ
 13	of	IN
 14	black-and-white	JJ
 15	photography	NN
@@ -28173,7 +28173,7 @@
 6	scores	NNS
 7	of	IN
 8	photography	NNP
-9	contests	NNS
+9	contests	NNP
 10	at	IN
 11	high	JJ
 12	schools	NNS
@@ -28239,7 +28239,7 @@
 19	kit	NN
 20	targeted	VBN
 21	at	IN
-22	teen-agers	NNS
+22	teen-agers	NNP
 23	who	WP
 24	want	VBP
 25	to	TO
@@ -28251,7 +28251,7 @@
 31	.	.
 
 1	The	DT
-2	kit	NN
+2	kit	JJ
 3	,	,
 4	which	WDT
 5	has	VBZ
@@ -28292,7 +28292,7 @@
 5	as	IN
 6	hobbies	NNP
 7	have	VBP
-8	waned	VBD
+8	waned	JJ
 9	,	,
 10	''	''
 11	says	VBZ
@@ -28314,7 +28314,7 @@
 4	observers	NNS
 5	believe	VBP
 6	the	DT
-7	resurgence	NN
+7	resurgence	JJ
 8	of	IN
 9	black	JJ
 10	and	CC
@@ -28816,9 +28816,9 @@
 23	the	DT
 24	economy	NN
 25	's	POS
-26	ups	NNS
+26	ups	JJ
 27	and	CC
-28	downs	NNS
+28	downs	NNP
 29	by	IN
 30	exceptionally	RB
 31	long	RB
@@ -28967,7 +28967,7 @@
 8	has	VBZ
 9	prompted	VBN
 10	some	DT
-11	forecasters	NNS
+11	forecasters	JJ
 12	to	TO
 13	anticipate	VB
 14	the	DT
@@ -29059,8 +29059,8 @@
 1	The	DT
 2	group	NN
 3	normally	RB
-4	convenes	VBZ
-5	only	RB
+4	convenes	JJ
+5	only	JJ
 6	when	WRB
 7	a	DT
 8	change	NN
@@ -29192,7 +29192,7 @@
 1	Over	IN
 2	the	DT
 3	full	JJ
-4	post-World	JJ
+4	post-World	NN
 5	War	NNP
 6	II	NNP
 7	era	NN
@@ -29270,7 +29270,7 @@
 11	index	NN
 12	would	MD
 13	have	VB
-14	behaved	VBD
+14	behaved	JJ
 15	,	,
 16	had	VBD
 17	it	PRP
@@ -29355,7 +29355,7 @@
 19	Dow	NNP
 20	Jones	NNP
 21	corporate	JJ
-22	bond-price	JJ
+22	bond-price	NN
 23	index	NN
 24	,	,
 25	which	WDT
@@ -29834,7 +29834,7 @@
 
 1	The	DT
 2	acquisition	NN
-3	strengthens	VBZ
+3	strengthens	NN
 4	BSN	NNP
 5	's	POS
 6	position	NN
@@ -29964,7 +29964,7 @@
 37	.	.
 
 1	CENTRUST	NNP
-2	SAVINGS	NNPS
+2	SAVINGS	NNP
 3	BANK	NNP
 4	(	-LRB-
 5	Miami	NNP
@@ -29986,9 +29986,9 @@
 13	of	IN
 14	CenTrust	NNP
 15	to	TO
-16	Caa	JJ
+16	Caa	VB
 17	from	IN
-18	B-3	JJ
+18	B-3	NNP
 19	.	.
 
 1	The	DT
@@ -30002,7 +30002,7 @@
 9	long-term	JJ
 10	deposits	NNS
 11	to	TO
-12	B-3	JJ
+12	B-3	VB
 13	from	IN
 14	Ba-3	NNP
 15	and	CC
@@ -30092,7 +30092,7 @@
 31	.	.
 
 1	THE	DT
-2	STOCK	NN
+2	STOCK	JJ
 3	MARKET	NN
 4	AVOIDED	NN
 5	a	DT
@@ -30110,7 +30110,7 @@
 17	,	,
 18	spurred	VBN
 19	by	IN
-20	bargain-hunting	NN
+20	bargain-hunting	NNP
 21	institutions	NNS
 22	and	CC
 23	program	NN
@@ -30123,7 +30123,7 @@
 4	industrials	NNS
 5	closed	VBD
 6	up	RP
-7	88.12	CD
+7	88.12	JJ
 8	points	NNS
 9	,	,
 10	at	IN
@@ -30140,7 +30140,7 @@
 21	as	IN
 22	much	JJ
 23	as	IN
-24	63.52	CD
+24	63.52	NNP
 25	points	NNS
 26	in	IN
 27	the	DT
@@ -30602,7 +30602,7 @@
 4	help	VB
 5	the	DT
 6	firm	NN
-7	solidify	VBP
+7	solidify	NN
 8	its	PRP$
 9	dominance	NN
 10	of	IN
@@ -30681,7 +30681,7 @@
 4	2657.38	JJ
 5	,	,
 6	up	RB
-7	88.12	CD
+7	88.12	JJ
 8	;	:
 9	transportation	NN
 10	1304.23	NN
@@ -31659,7 +31659,7 @@
 11	the	DT
 12	medical	JJ
 13	and	CC
-14	dental	JJ
+14	dental	NNP
 15	markets	NNS
 16	,	,
 17	said	VBD
@@ -31750,7 +31750,7 @@
 13	the	DT
 14	medical	JJ
 15	and	CC
-16	dental	JJ
+16	dental	NNP
 17	markets	NNS
 18	.	.
 
@@ -32520,7 +32520,7 @@
 10	arrested	VBN
 11	and	CC
 12	his	PRP$
-13	passport	NN
+13	passport	JJ
 14	confiscated	VBN
 15	.	.
 
@@ -32564,7 +32564,7 @@
 38	person	NN
 39	to	TO
 40	``	``
-41	insult	NN
+41	insult	JJ
 42	,	,
 43	disparate	NNP
 44	or	CC
@@ -32637,7 +32637,7 @@
 34	the	DT
 35	victims	NNS
 36	of	IN
-37	suppression	NN
+37	suppression	NNP
 38	by	IN
 39	neighboring	VBG
 40	South	NNP
@@ -32793,7 +32793,7 @@
 7	published	VBN
 8	in	IN
 9	two	CD
-10	Namibian	JJ
+10	Namibian	CD
 11	newspapers	NNS
 12	,	,
 13	Mr.	NNP
@@ -32879,7 +32879,7 @@
 5	SWAPO	NNP
 6	extremists	NNP
 7	are	VBP
-8	intimidating	VBG
+8	intimidating	JJ
 9	voters	NNS
 10	.	.
 
@@ -32946,7 +32946,7 @@
 27	Mr.	NNP
 28	O'Linn's	NNP
 29	commission	NN
-30	investigates	VBZ
+30	investigates	NN
 31	election	NN
 32	complaints	NNS
 33	from	IN
@@ -32996,7 +32996,7 @@
 10	undercurrent	JJ
 11	than	IN
 12	a	DT
-13	dominating	VBG
+13	dominating	JJ
 14	force	NN
 15	as	IN
 16	individual	JJ
@@ -33203,8 +33203,8 @@
 22	gains	NNS
 23	and	CC
 24	platinum	NN
-25	behaved	VBD
-26	independently	RB
+25	behaved	NN
+26	independently	NN
 27	,	,
 28	first	JJ
 29	falling	VBG
@@ -33275,9 +33275,9 @@
 11	5.163	CD
 12	.	.
 
-1	Platinum	NN
-2	behaved	VBD
-3	more	JJR
+1	Platinum	NNP
+2	behaved	NNP
+3	more	RBR
 4	like	IN
 5	an	DT
 6	industrial	JJ
@@ -33895,7 +33895,7 @@
 3	down	RP
 4	from	IN
 5	the	DT
-6	outset	NN
+6	outset	JJ
 7	of	IN
 8	trading	NN
 9	on	IN
@@ -34082,7 +34082,7 @@
 15	.	.
 
 1	The	DT
-2	LME	NNP
+2	LME	JJ
 3	stocks	NNS
 4	decline	VBP
 5	was	VBD
@@ -34364,7 +34364,7 @@
 3	contract	NN
 4	was	VBD
 5	off	RP
-6	0.32	CD
+6	0.32	JJ
 7	cent	NN
 8	a	DT
 9	pound	NN
@@ -34897,7 +34897,7 @@
 6	extended	VBD
 7	its	PRP$
 8	$	$
-9	45-a-share	JJ
+9	45-a-share	CD
 10	offer	NN
 11	for	IN
 12	Dunkin	NNP
@@ -34933,7 +34933,7 @@
 8	Canada	NNP
 9	Corp.	NNP
 10	's	POS
-11	Kingsbridge	NNP
+11	Kingsbridge	JJ
 12	Capital	NNP
 13	Group	NNP
 14	unit	NN
@@ -34983,7 +34983,7 @@
 38	a	DT
 39	tender	NN
 40	offer	NN
-41	expiring	VBG
+41	expiring	NN
 42	on	IN
 43	that	DT
 44	date	NN
@@ -35378,7 +35378,7 @@
 5	as	IN
 6	solvents	NNS
 7	,	,
-8	coolants	NNS
+8	coolants	NNP
 9	and	CC
 10	fire	NN
 11	suppressants	NN
@@ -35716,7 +35716,7 @@
 4	,	,
 5	Ark.	NNP
 6	,	,
-7	hazardous-waste	JJ
+7	hazardous-waste	NNP
 8	services	NNS
 9	company	NN
 10	said	VBD
@@ -35938,8 +35938,8 @@
 7	closed	VBD
 8	unchanged	JJ
 9	at	IN
-10	10.625	CD
-11	Canadian	JJ
+10	10.625	NNP
+11	Canadian	NNP
 12	dollars	NNS
 13	(	-LRB-
 14	US$	$
@@ -35956,7 +35956,7 @@
 7	ISI	NNP
 8	,	,
 9	a	DT
-10	Braintree	NNP
+10	Braintree	JJ
 11	,	,
 12	Mass.	NNP
 13	,	,
@@ -36071,7 +36071,7 @@
 4	tender	NN
 5	offer	NN
 6	is	VBZ
-7	conditioned	VBN
+7	conditioned	JJ
 8	on	IN
 9	,	,
 10	among	IN
@@ -36433,7 +36433,7 @@
 3	used	VBN
 4	aboard	IN
 5	military	JJ
-6	helicopters	NNS
+6	helicopters	NN
 7	to	TO
 8	warn	VB
 9	pilots	NNS
@@ -36458,7 +36458,7 @@
 8	unit	NN
 9	's	POS
 10	work	NN
-11	complements	VBZ
+11	complements	NN
 12	efforts	NNS
 13	by	IN
 14	its	PRP$
@@ -36629,7 +36629,7 @@
 11	.	.
 
 1	The	DT
-2	CWA	NNP
+2	CWA	JJ
 3	represents	VBZ
 4	40,000	CD
 5	Nynex	NNP
@@ -36705,7 +36705,7 @@
 
 1	Many	JJ
 2	went	VBD
-3	bargain-hunting	NN
+3	bargain-hunting	CD
 4	.	.
 
 1	Among	IN
@@ -36748,7 +36748,7 @@
 8	p.m.	NN
 9	,	,
 10	he	PRP
-11	smiled	VBD
+11	smiled	VBZ
 12	broadly	RB
 13	,	,
 14	brandished	NNP
@@ -36756,7 +36756,7 @@
 16	unlit	JJ
 17	cigar	NN
 18	and	CC
-19	slapped	VBD
+19	slapped	NNP
 20	Stanley	NNP
 21	Shopkorn	NNP
 22	,	,
@@ -36826,7 +36826,7 @@
 6	Industrials	NNP
 7	were	VBD
 8	off	RP
-9	63.52	CD
+9	63.52	JJ
 10	points	NNS
 11	,	,
 12	and	CC
@@ -36875,7 +36875,7 @@
 4	a	DT
 5	gain	NN
 6	of	IN
-7	88.12	CD
+7	88.12	NNP
 8	points	NNS
 9	.	.
 
@@ -37015,7 +37015,7 @@
 16	history	NN
 17	.	.
 
-1	World-wide	JJ
+1	World-wide	NNP
 2	,	,
 3	trading	NN
 4	was	VBD
@@ -37040,7 +37040,7 @@
 15	chips	NNS
 16	there	RB
 17	falling	VBG
-18	12.8	CD
+18	12.8	JJ
 19	%	NN
 20	.	.
 
@@ -37120,7 +37120,7 @@
 20	trading	NN
 21	,	,
 22	huge	JJ
-23	corrections	NNS
+23	corrections	NN
 24	or	CC
 25	runups	NNP
 26	in	IN
@@ -37199,7 +37199,7 @@
 11	a	DT
 12	supplier	NN
 13	of	IN
-14	nursing-home	NN
+14	nursing-home	NNP
 15	equipment	NN
 16	and	CC
 17	is	VBZ
@@ -37457,8 +37457,8 @@
 1	So	RB
 2	investors	NNS
 3	everywhere	RB
-4	nervously	RB
-5	eyed	JJ
+4	nervously	JJ
+5	eyed	NN
 6	yesterday	NN
 7	's	POS
 8	opening	NN
@@ -37561,7 +37561,7 @@
 12	40	CD
 13	traders	NNS
 14	and	CC
-15	assistants	NNS
+15	assistants	NNP
 16	sat	VBD
 17	quietly	RB
 18	,	,
@@ -37572,7 +37572,7 @@
 23	process	VB
 24	.	.
 
-1	Clients	NNS
+1	Clients	NNP
 2	``	``
 3	are	VBP
 4	all	DT
@@ -37784,8 +37784,8 @@
 1	With	IN
 2	sell	NN
 3	orders	NNS
-4	piled	VBD
-5	up	RP
+4	piled	JJ
+5	up	IN
 6	from	IN
 7	Friday	NNP
 8	,	,
@@ -37835,7 +37835,7 @@
 8	bottom	JJ
 9	-	:
 10	down	RB
-11	63.52	CD
+11	63.52	JJ
 12	points	NNS
 13	,	,
 14	another	DT
@@ -38547,7 +38547,7 @@
 12	Donald	NNP
 13	Trump	NNP
 14	was	VBD
-15	withdrawing	VBG
+15	withdrawing	CD
 16	his	PRP$
 17	offer	NN
 18	for	IN
@@ -38844,7 +38844,7 @@
 19	on	IN
 20	Friday	NNP
 21	,	,
-22	conditioned	VBN
+22	conditioned	NNP
 23	on	IN
 24	at	IN
 25	least	JJS
@@ -39022,7 +39022,7 @@
 7	sought	VBN
 8	Honecker	NNP
 9	's	POS
-10	ouster	NN
+10	ouster	JJ
 11	.	.
 
 1	In	IN
@@ -39339,7 +39339,7 @@
 23	a	DT
 24	lawsuit	NN
 25	by	IN
-26	anti-nuclear	JJ
+26	anti-nuclear	NNP
 27	groups	NNS
 28	to	TO
 29	delay	VB
@@ -39627,8 +39627,8 @@
 16	eight	CD
 17	black	JJ
 18	political	JJ
-19	prisoners	NNS
-20	risked	VBD
+19	prisoners	NN
+20	risked	NN
 21	bringing	VBG
 22	chaos	NN
 23	and	CC
@@ -39753,7 +39753,7 @@
 16	three-year-old	JJ
 17	Labor	NN
 18	regime	NN
-19	relinquished	VBN
+19	relinquished	NN
 20	power	NN
 21	.	.
 
@@ -39860,7 +39860,7 @@
 18	U.S.-supplied	JJ
 19	arms	NNS
 20	to	TO
-21	Salvadoran	JJ
+21	Salvadoran	VB
 22	guerrillas	NNS
 23	,	,
 24	but	CC
@@ -40105,7 +40105,7 @@
 22	Toe	NNP
 23	name	NN
 24	and	CC
-25	menswear	NN
+25	menswear	NNP
 26	through	IN
 27	the	DT
 28	Schoeneman	JJ
@@ -40122,7 +40122,7 @@
 8	to	TO
 9	Bidermann	VB
 10	's	POS
-11	receipt	NN
+11	receipt	JJ
 12	of	IN
 13	financing	NN
 14	and	CC
@@ -40452,9 +40452,9 @@
 7	write-off	NN
 8	could	MD
 9	help	VB
-10	solidify	VB
-11	Blue	JJ
-12	Arrow	NN
+10	solidify	JJ
+11	Blue	NNP
+12	Arrow	NNP
 13	's	POS
 14	dominance	NN
 15	of	IN
@@ -40549,7 +40549,7 @@
 1	``	``
 2	It	PRP
 3	further	RB
-4	reinforces	VBZ
+4	reinforces	JJ
 5	the	DT
 6	concept	NN
 7	that	IN
@@ -40601,7 +40601,7 @@
 2	a	DT
 3	widely	RB
 4	publicized	VBN
-5	boardroom	NN
+5	boardroom	JJ
 6	coup	NN
 7	,	,
 8	Mr.	NNP
@@ -40631,7 +40631,7 @@
 32	the	DT
 33	$	$
 34	1	CD
-35	million-a-year	JJ
+35	million-a-year	CD
 36	chief	NN
 37	of	IN
 38	Milwaukee-based	NNP
@@ -40659,7 +40659,7 @@
 2	the	DT
 3	Blue	NNP
 4	Arrow	NNP
-5	tumult	NN
+5	tumult	NNP
 6	is	VBZ
 7	n't	RB
 8	over	IN
@@ -41086,7 +41086,7 @@
 6	man	NN
 7	credited	VBD
 8	with	IN
-9	transforming	VBG
+9	transforming	NNP
 10	Applied	NNP
 11	Power	NNP
 12	Inc.	NNP
@@ -41102,7 +41102,7 @@
 22	global	JJ
 23	market	NN
 24	for	IN
-25	hydraulic	JJ
+25	hydraulic	NNP
 26	tools	NNS
 27	,	,
 28	hopes	VBZ
@@ -41157,7 +41157,7 @@
 16	tough	JJ
 17	challenge	NN
 18	in	IN
-19	integrating	VBG
+19	integrating	NNP
 20	the	DT
 21	two	CD
 22	companies	NNS
@@ -41360,7 +41360,7 @@
 2	stock	NN
 3	has	VBZ
 4	since	IN
-5	softened	JJ
+5	softened	NNP
 6	,	,
 7	trading	NN
 8	around	IN
@@ -41972,8 +41972,8 @@
 10	futures	NNS
 11	in	IN
 12	Chicago	NNP
-13	relentlessly	RB
-14	beat	VB
+13	relentlessly	NNP
+14	beat	VBD
 15	stocks	NNS
 16	downward	RB
 17	.	.
@@ -42154,7 +42154,7 @@
 1	Then	RB
 2	in	IN
 3	a	DT
-4	lightning	NN
+4	lightning	JJ
 5	plunge	NN
 6	,	,
 7	the	DT
@@ -42217,7 +42217,7 @@
 5	the	DT
 6	day	NN
 7	,	,
-8	251.2	CD
+8	251.2	NNP
 9	million	CD
 10	shares	NNS
 11	were	VBD
@@ -42382,7 +42382,7 @@
 12	Big	NNP
 13	Board	NNP
 14	was	VBD
-15	halting	VBG
+15	halting	CD
 16	trading	NN
 17	in	IN
 18	UAL	NNP
@@ -42407,7 +42407,7 @@
 12	trading	NN
 13	,	,
 14	we	PRP
-15	braced	VBN
+15	braced	VBZ
 16	for	IN
 17	a	DT
 18	panic	NN
@@ -42431,7 +42431,7 @@
 9	when	WRB
 10	the	DT
 11	news	NN
-12	flashed	VBD
+12	flashed	NN
 13	.	.
 
 1	For	IN
@@ -42501,7 +42501,7 @@
 
 1	The	DT
 2	market	NN
-3	crumbled	VBD
+3	crumbled	NN
 4	.	.
 
 1	Arbitragers	NNP
@@ -42847,7 +42847,7 @@
 3	halt	VBP
 4	was	VBD
 5	even	RB
-6	assailed	VBD
+6	assailed	JJ
 7	by	IN
 8	Big	NNP
 9	Board	NNP
@@ -42857,7 +42857,7 @@
 
 1	``	``
 2	It	PRP
-3	screwed	VBD
+3	screwed	VBZ
 4	things	NNS
 5	up	IN
 6	,	,
@@ -42945,7 +42945,7 @@
 7	through	IN
 8	,	,
 9	it	PRP
-10	cracked	VBN
+10	cracked	VBZ
 11	every	DT
 12	model	NN
 13	we	PRP
@@ -43046,8 +43046,8 @@
 12	sell	VBP
 13	orders	NNS
 14	began	VBD
-15	piling	VBG
-16	up	RP
+15	piling	CD
+16	up	IN
 17	,	,
 18	while	IN
 19	stocks	NNS
@@ -43073,7 +43073,7 @@
 12	``	``
 13	worked	VBN
 14	well	RB
-15	mechanically	RB
+15	mechanically	JJ
 16	.	.
 
 1	I	PRP
@@ -43118,7 +43118,7 @@
 14	was	VBD
 15	flying	VBG
 16	to	TO
-17	Bangkok	NNP
+17	Bangkok	VB
 18	as	IN
 19	the	DT
 20	market	NN
@@ -43542,7 +43542,7 @@
 9	back	RB
 10	to	TO
 11	the	DT
-12	forefront	NN
+12	forefront	JJ
 13	.	.
 14	''	''
 
@@ -43554,7 +43554,7 @@
 6	to	TO
 7	its	PRP$
 8	final	JJ
-9	190.58	CD
+9	190.58	NN
 10	loss	NN
 11	Friday	NNP
 12	,	,
@@ -43922,8 +43922,8 @@
 21	,	,
 22	and	CC
 23	...	:
-24	oh	UH
-25	yes	UH
+24	oh	CD
+25	yes	RB
 26	,	,
 27	England	NNP
 28	,	,
@@ -44574,12 +44574,12 @@
 24	in	IN
 25	which	WDT
 26	a	DT
-27	prostitute	NN
-28	played	VBD
+27	prostitute	JJ
+28	played	VBN
 29	by	IN
 30	actress	NN
-31	Jane	NNP
-32	Fonda	NNP
+31	Jane	NN
+32	Fonda	NN
 33	is	VBZ
 34	saved	VBN
 35	from	IN
@@ -44818,7 +44818,7 @@
 11	the	DT
 12	various	JJ
 13	Hooker	NNP
-14	malls	NNS
+14	malls	NNP
 15	can	MD
 16	become	VB
 17	profitable	JJ
@@ -45785,7 +45785,7 @@
 5	phone	NN
 6	calls	VBZ
 7	were	VBD
-8	arriving	VBG
+8	arriving	CD
 9	at	IN
 10	twice	RB
 11	the	DT
@@ -45990,7 +45990,7 @@
 10	calm	VB
 11	investors	NNS
 12	with	IN
-13	recordings	NNS
+13	recordings	NNP
 14	on	IN
 15	their	PRP$
 16	toll-free	JJ
@@ -46115,7 +46115,7 @@
 12	335	CD
 13	million	CD
 14	Sector	CD
-15	Analysis	NN
+15	Analysis	CD
 16	Portfolio	NN
 17	,	,
 18	predicts	VBZ
@@ -46570,7 +46570,7 @@
 7	West	NNP
 8	that	IN
 9	the	DT
-10	757	CD
+10	757	JJ
 11	it	PRP
 12	was	VBD
 13	supposed	VBN
@@ -46640,14 +46640,14 @@
 8	America	NNP
 9	West	NNP
 10	another	DT
-11	757	CD
-12	twin-engine	CD
+11	757	JJ
+12	twin-engine	NN
 13	aircraft	NN
 14	as	IN
 15	well	RB
 16	as	IN
 17	a	DT
-18	737	CD
+18	737	JJ
 19	by	IN
 20	year	NN
 21	's	POS
@@ -46712,7 +46712,7 @@
 4	company	NN
 5	's	POS
 6	reaction	NN
-7	underscores	VBZ
+7	underscores	NN
 8	the	DT
 9	domino	JJ
 10	effect	NN
@@ -46958,7 +46958,7 @@
 13	will	MD
 14	deliver	VB
 15	a	DT
-16	757	CD
+16	757	JJ
 17	on	IN
 18	time	NN
 19	later	RB
@@ -46974,7 +46974,7 @@
 6	delivery	NN
 7	of	IN
 8	another	DT
-9	757	CD
+9	757	JJ
 10	in	IN
 11	early	JJ
 12	December	NNP
@@ -47070,7 +47070,7 @@
 36	completed	VBD
 37	before	IN
 38	the	DT
-39	walkout	NN
+39	walkout	JJ
 40	.	.
 
 1	As	IN
@@ -47420,7 +47420,7 @@
 3	that	IN
 4	the	DT
 5	company	NN
-6	miscalculated	VBD
+6	miscalculated	NN
 7	the	DT
 8	union	NN
 9	's	POS
@@ -48153,7 +48153,7 @@
 5	is	VBZ
 6	considering	VBG
 7	building	NN
-8	gas-fired	JJ
+8	gas-fired	NN
 9	power	NN
 10	plants	NNS
 11	in	IN
@@ -48267,7 +48267,7 @@
 18	.	.
 
 1	CONCORDE	NNP
-2	trans-Atlantic	JJ
+2	trans-Atlantic	NNP
 3	flights	NNS
 4	are	VBP
 5	$	$
@@ -48283,7 +48283,7 @@
 
 1	In	IN
 2	a	DT
-3	Centennial	NNP
+3	Centennial	JJ
 4	Journal	NNP
 5	article	NN
 6	Oct.	NNP
@@ -48310,7 +48310,7 @@
 
 1	The	DT
 2	well	RB
-3	flowed	VBD
+3	flowed	JJ
 4	at	IN
 5	a	DT
 6	rate	NN
@@ -48967,7 +48967,7 @@
 21	eroding	VBG
 22	.	.
 
-1	Pricing	NN
+1	Pricing	NNP
 2	cycles	NNS
 3	,	,
 4	to	TO
@@ -49034,7 +49034,7 @@
 7	bottom	NN
 8	of	IN
 9	the	DT
-10	heap	NN
+10	heap	JJ
 11	.	.
 12	''	''
 
@@ -49080,7 +49080,7 @@
 16	spirits	NNS
 17	business	NN
 18	and	CC
-19	plowed	VBN
+19	plowed	NNP
 20	more	RBR
 21	of	IN
 22	its	PRP$
@@ -49222,7 +49222,7 @@
 24	so	RB
 25	are	VBP
 26	better	JJR
-27	cushioned	VBN
+27	cushioned	NN
 28	against	IN
 29	price	NN
 30	swings	NNS
@@ -49316,7 +49316,7 @@
 3	the	DT
 4	price	NN
 5	of	IN
-6	ethylene	NN
+6	ethylene	NNP
 7	,	,
 8	the	DT
 9	chemical	NN
@@ -49349,8 +49349,8 @@
 14	half	PDT
 15	of	NN
 16	its	PRP$
-17	ethylene	NN
-18	needs	VBZ
+17	ethylene	JJ
+18	needs	NNS
 19	.	.
 
 1	By	IN
@@ -49688,7 +49688,7 @@
 13	to	TO
 14	share	VB
 15	the	DT
-16	bonanza	NN
+16	bonanza	JJ
 17	with	IN
 18	its	PRP$
 19	holders	NNS
@@ -49848,7 +49848,7 @@
 5	else	RB
 6	,	,
 7	Quantum	NNP
-8	confronts	VBZ
+8	confronts	NNP
 9	a	DT
 10	disaster	NN
 11	at	IN
@@ -49863,7 +49863,7 @@
 1	After	IN
 2	an	DT
 3	explosion	NN
-4	idled	VBD
+4	idled	NN
 5	the	DT
 6	plant	NN
 7	in	IN
@@ -49871,7 +49871,7 @@
 9	,	,
 10	the	DT
 11	company	NN
-12	progressed	VBD
+12	progressed	NN
 13	in	IN
 14	September	NNP
 15	to	TO
@@ -50111,7 +50111,7 @@
 18	%	NN
 19	of	IN
 20	its	PRP$
-21	ethylene	NN
+21	ethylene	JJ
 22	production	NN
 23	.	.
 
@@ -50150,7 +50150,7 @@
 
 1	By	IN
 2	lifting	VBG
-3	ethylene	NN
+3	ethylene	JJ
 4	production	NN
 5	,	,
 6	the	DT
@@ -50296,7 +50296,7 @@
 6	Quantum	NNP
 7	,	,
 8	a	DT
-9	BP	NNP
+9	BP	JJ
 10	spokesman	NN
 11	says	VBZ
 12	,	,
@@ -50399,7 +50399,7 @@
 41	unit	NN
 42	,	,
 43	and	CC
-44	dismissing	VBG
+44	dismissing	NNP
 45	its	PRP$
 46	14	CD
 47	employees	NNS
@@ -50996,7 +50996,7 @@
 25	which	WDT
 26	has	VBZ
 27	been	VBN
-28	notoriously	RB
+28	notoriously	JJ
 29	managed	VBN
 30	,	,
 31	subsidized	JJ
@@ -51090,7 +51090,7 @@
 19	increase	NN
 20	to	TO
 21	about	RB
-22	1.95	CD
+22	1.95	JJ
 23	%	NN
 24	.	.
 
@@ -51620,7 +51620,7 @@
 5	the	DT
 6	company	NN
 7	's	POS
-8	entrance	NN
+8	entrance	JJ
 9	into	IN
 10	the	DT
 11	public	JJ
@@ -51784,10 +51784,10 @@
 21	use	NN
 22	in	IN
 23	hotel	NN
-24	lobbies	NNS
+24	lobbies	NN
 25	,	,
 26	office	NN
-27	lobbies	NNS
+27	lobbies	NN
 28	,	,
 29	hospitality	NNP
 30	lounges	NNP
@@ -52253,7 +52253,7 @@
 36	liquids	NNP
 37	have	VBP
 38	gained	VBN
-39	prominence	NN
+39	prominence	JJ
 40	over	IN
 41	powders	NNP
 42	.	.
@@ -52277,7 +52277,7 @@
 17	already	RB
 18	expanded	VBN
 19	its	PRP$
-20	best-selling	JJS
+20	best-selling	JJ
 21	Tide	NNP
 22	into	IN
 23	16	CD
@@ -52381,7 +52381,7 @@
 12	new	JJ
 13	Cheer	NN
 14	,	,
-15	bombed	VBN
+15	bombed	NNP
 16	in	IN
 17	a	DT
 18	market	NN
@@ -52438,7 +52438,7 @@
 12	also	RB
 13	offers	VBZ
 14	an	DT
-15	ingredient	NN
+15	ingredient	JJ
 16	that	IN
 17	prevents	VBZ
 18	colors	NNS
@@ -52559,7 +52559,7 @@
 6	tougher	JJR
 7	if	IN
 8	Kao	NNP
-9	introduces	VBZ
+9	introduces	NNP
 10	a	DT
 11	product	NN
 12	like	IN
@@ -52610,7 +52610,7 @@
 8	interested	VBN
 9	in	IN
 10	selling	VBG
-11	detergents	NNS
+11	detergents	JJ
 12	in	IN
 13	the	DT
 14	U.S.	NNP
@@ -53212,7 +53212,7 @@
 38	under	IN
 39	the	DT
 40	Super	NNP
-41	301	CD
+41	301	NNP
 42	provision	NN
 43	of	IN
 44	the	DT
@@ -53261,7 +53261,7 @@
 7	mainly	RB
 8	due	JJ
 9	to	TO
-10	macroeconomic	JJ
+10	macroeconomic	VB
 11	factors	NNS
 12	and	CC
 13	should	MD
@@ -53285,8 +53285,8 @@
 9	one	CD
 10	economics	NNS
 11	journalist	NN
-12	summed	VBD
-13	up	RP
+12	summed	NN
+13	up	IN
 14	the	DT
 15	Japanese	JJ
 16	sense	NN
@@ -54124,7 +54124,7 @@
 6	the	DT
 7	price	NN
 8	of	IN
-9	ethylene	NN
+9	ethylene	NNP
 10	,	,
 11	a	DT
 12	major	JJ
@@ -54158,7 +54158,7 @@
 1	A	DT
 2	year	NN
 3	ago	IN
-4	ethylene	NN
+4	ethylene	NNP
 5	sold	VBD
 6	for	IN
 7	33	CD
@@ -54329,7 +54329,7 @@
 13	earlier	RBR
 14	,	,
 15	further	RB
-16	pressuring	VBG
+16	pressuring	JJ
 17	profitability	NN
 18	.	.
 
@@ -54441,7 +54441,7 @@
 9	and	CC
 10	it	PRP
 11	typically	RB
-12	accelerates	VBZ
+12	accelerates	JJ
 13	in	IN
 14	the	DT
 15	fourth	JJ
@@ -54830,7 +54830,7 @@
 13	Cocom	NNP
 14	members	NNS
 15	are	VBP
-16	complying	VBG
+16	complying	JJ
 17	fully	RB
 18	with	IN
 19	existing	VBG
@@ -54915,7 +54915,7 @@
 31	``	``
 32	embargoed	JJ
 33	,	,
-34	state-of-the-art	JJ
+34	state-of-the-art	NNP
 35	,	,
 36	flexible	JJ
 37	manufacturing	NN
@@ -55025,7 +55025,7 @@
 
 1	Although	IN
 2	the	DT
-3	legality	NN
+3	legality	JJ
 4	of	IN
 5	these	DT
 6	sales	NNS
@@ -55041,7 +55041,7 @@
 16	n't	RB
 17	be	VB
 18	better	JJR
-19	timed	VBN
+19	timed	NN
 20	to	TO
 21	support	VB
 22	the	DT
@@ -55095,7 +55095,7 @@
 3	administration	NN
 4	has	VBZ
 5	sent	VBN
-6	conflicting	VBG
+6	conflicting	JJ
 7	signals	NNS
 8	about	IN
 9	its	PRP$
@@ -55546,11 +55546,11 @@
 24	the	DT
 25	thrift	NN
 26	by	IN
-27	concealing	VBG
+27	concealing	NNP
 28	their	PRP$
 29	relationship	NN
 30	when	WRB
-31	persuading	VBG
+31	persuading	JJ
 32	it	PRP
 33	to	TO
 34	buy	VB
@@ -55615,7 +55615,7 @@
 18	agreement	NN
 19	for	IN
 20	Vagabond	NNP
-21	Hotels	NNPS
+21	Hotels	NNP
 22	to	TO
 23	purchase	VB
 24	a	DT
@@ -55633,7 +55633,7 @@
 36	.	.
 
 1	Vagabond	NNP
-2	Hotels	NNPS
+2	Hotels	NNP
 3	was	VBD
 4	controlled	VBN
 5	by	IN
@@ -55708,7 +55708,7 @@
 17	company	NN
 18	to	TO
 19	Vagabonds	VB
-20	Hotels	NNPS
+20	Hotels	JJ
 21	.	.
 
 1	Northview	NNP
@@ -55870,7 +55870,7 @@
 36	minority	NN
 37	shareholders	NNS
 38	with	IN
-39	12.8	CD
+39	12.8	NNP
 40	%	NN
 41	of	IN
 42	the	DT
@@ -56212,7 +56212,7 @@
 1	In	IN
 2	response	NN
 3	to	TO
-4	dwindling	VBG
+4	dwindling	VB
 5	domestic	JJ
 6	supplies	NNS
 7	,	,
@@ -56294,7 +56294,7 @@
 23	and	CC
 24	a	DT
 25	drought-stunted	JJ
-26	1.81	CD
+26	1.81	NN
 27	billion	CD
 28	in	IN
 29	1988	CD
@@ -56586,7 +56586,7 @@
 
 1	That	DT
 2	figure	NN
-3	climbs	VBZ
+3	climbs	NN
 4	to	TO
 5	about	RB
 6	47	CD
@@ -57680,7 +57680,7 @@
 9	pharmaceutical	JJ
 10	research	NN
 11	firm	NN
-12	IMS	NNP
+12	IMS	NN
 13	International	NNP
 14	Inc.	NNP
 15	,	,
@@ -57981,7 +57981,7 @@
 22	Omnicom	NNP
 23	Group	NNP
 24	's	POS
-25	BBDO	NNP
+25	BBDO	JJ
 26	agency	NN
 27	.	.
 
@@ -58119,7 +58119,7 @@
 7	's	POS
 8	office	NN
 9	said	VBD
-10	extradition	NN
+10	extradition	CD
 11	proceedings	NNS
 12	are	VBP
 13	``	``
@@ -58251,7 +58251,7 @@
 9	sales	NNS
 10	of	IN
 11	certain	JJ
-12	data-storage	JJ
+12	data-storage	NN
 13	products	NNS
 14	,	,
 15	Maxtor	NNP
@@ -58702,7 +58702,7 @@
 1	PCS	NNP
 2	also	RB
 3	named	VBN
-4	Rex	NNP
+4	Rex	JJ
 5	R.	NNP
 6	Malson	NNP
 7	,	,
@@ -58764,7 +58764,7 @@
 16	MedChem	NNP
 17	to	TO
 18	the	DT
-19	validity	NN
+19	validity	JJ
 20	of	IN
 21	a	DT
 22	U.S.	NNP
@@ -58801,7 +58801,7 @@
 19	AMVISC	JJ
 20	product	NN
 21	line	NN
-22	infringes	VBZ
+22	infringes	NN
 23	on	IN
 24	the	DT
 25	Pharmacia	JJ
@@ -59046,7 +59046,7 @@
 26	Northeast	NNP
 27	.	.
 
-1	Adding	VBG
+1	Adding	NNP
 2	to	TO
 3	unsteadiness	VB
 4	in	IN
@@ -60137,7 +60137,7 @@
 10	effectively	RB
 11	signed	VBN
 12	death	NN
-13	notices	NNS
+13	notices	NN
 14	for	IN
 15	two	CD
 16	full-sized	JJ
@@ -60374,8 +60374,8 @@
 19	are	VBP
 20	trying	VBG
 21	to	TO
-22	silence	NN
-23	dissidents	NNS
+22	silence	VB
+23	dissidents	JJ
 24	who	WP
 25	charge	VBP
 26	the	DT
@@ -60444,8 +60444,8 @@
 13	and	CC
 14	product	NN
 15	reassignments	NN
-16	trickle	VB
-17	out	RP
+16	trickle	NN
+17	out	IN
 18	in	IN
 19	separate	JJ
 20	communiques	NN
@@ -60637,8 +60637,8 @@
 30	generation	NN
 31	of	IN
 32	the	DT
-33	Pontiac	NNP
-34	Firebird	NNP
+33	Pontiac	JJ
+34	Firebird	NN
 35	and	CC
 36	Chevrolet	NNP
 37	Camaro	NNP
@@ -60933,10 +60933,10 @@
 16	acquisition	NN
 17	of	IN
 18	Connaught	NNP
-19	BioSciences	NNPS
+19	BioSciences	NNP
 20	Inc.	NNP
 21	for	IN
-22	942	CD
+22	942	NNP
 23	million	CD
 24	Canadian	JJ
 25	dollars	NNS
@@ -61438,7 +61438,7 @@
 
 1	French	JJ
 2	state-owned	JJ
-3	Rhone-Poulenc	NNP
+3	Rhone-Poulenc	NN
 4	S.A.	NNP
 5	holds	VBZ
 6	51	CD
@@ -61576,7 +61576,7 @@
 19	on	IN
 20	dividends	NNS
 21	in	IN
-22	arrears	NNS
+22	arrears	NNP
 23	about	IN
 24	$	$
 25	6	CD
@@ -61682,7 +61682,7 @@
 2	currently	RB
 3	has	VBZ
 4	approximately	RB
-5	11.1	CD
+5	11.1	JJ
 6	million	CD
 7	common	JJ
 8	shares	NNS
@@ -61787,7 +61787,7 @@
 31	new	JJ
 32	,	,
 33	higher-priced	JJ
-34	medicines	NNS
+34	medicines	NN
 35	that	IN
 36	provide	VB
 37	wide	JJ
@@ -61795,7 +61795,7 @@
 39	margins	NNS
 40	.	.
 
-1	Less	RBR
+1	Less	NNP
 2	robust	JJ
 3	earnings	NNS
 4	at	IN
@@ -61824,7 +61824,7 @@
 27	drugs	NNS
 28	and	CC
 29	other	JJ
-30	medicines	NNS
+30	medicines	NN
 31	.	.
 
 1	Joseph	NNP
@@ -62714,7 +62714,7 @@
 15	of	IN
 16	certain	JJ
 17	tranquilizing	NN
-18	medicines	NNS
+18	medicines	NN
 19	and	CC
 20	adverse	JJ
 21	publicity	NN
@@ -63086,8 +63086,8 @@
 12	,	,
 13	its	PRP$
 14	own	JJ
-15	charming	JJ
-16	Little	JJ
+15	charming	NN
+16	Little	NNP
 17	Italy	NNP
 18	(	-LRB-
 19	on	IN
@@ -63116,7 +63116,7 @@
 11	footage	NN
 12	of	IN
 13	the	DT
-14	devastated	VBN
+14	devastated	JJ
 15	South	NNP
 16	Bronx	NNP
 17	,	,
@@ -63134,10 +63134,10 @@
 29	did	VBD
 30	in	IN
 31	``	``
-32	Bonfire	NNP
+32	Bonfire	JJ
 33	of	IN
 34	the	DT
-35	Vanities	NNS
+35	Vanities	JJ
 36	''	''
 37	--	:
 38	as	IN
@@ -63273,7 +63273,7 @@
 32	''	''
 33	a	DT
 34	world	NN
-35	simmering	VBG
+35	simmering	NN
 36	with	IN
 37	sex	NN
 38	and	CC
@@ -63314,7 +63314,7 @@
 30	)	-RRB-
 31	,	,
 32	whose	WP$
-33	lobbies	NNS
+33	lobbies	JJ
 34	and	CC
 35	hallways	NNP
 36	were	VBD
@@ -63347,7 +63347,7 @@
 13	in	IN
 14	the	DT
 15	AnaMor	JJ
-16	Towers	NNP
+16	Towers	NN
 17	as	IN
 18	a	DT
 19	little	JJ
@@ -63521,7 +63521,7 @@
 8	kids	NNS
 9	down	RB
 10	and	CC
-11	stripping	VBG
+11	stripping	NNP
 12	them	PRP
 13	,	,
 14	for	IN
@@ -63589,12 +63589,12 @@
 11	was	VBD
 12	unwanted	JJ
 13	,	,
-14	slept	VBD
+14	slept	NNP
 15	on	IN
 16	a	DT
 17	narrow	JJ
 18	bed	NN
-19	wedged	VBD
+19	wedged	NN
 20	into	IN
 21	her	PRP$
 22	parents	NNS
@@ -63640,7 +63640,7 @@
 6	with	IN
 7	where	WRB
 8	people	NNS
-9	slept	VBD
+9	slept	JJ
 10	and	CC
 11	how	WRB
 12	because	IN
@@ -63678,7 +63678,7 @@
 4	apartment	NN
 5	orange	NN
 6	,	,
-7	pink	JJ
+7	pink	NNP
 8	and	CC
 9	white	JJ
 10	,	,
@@ -63736,7 +63736,7 @@
 46	in	IN
 47	a	DT
 48	Manila	NNP
-49	envelope	NN
+49	envelope	NNP
 50	,	,
 51	like	IN
 52	an	DT
@@ -63760,7 +63760,7 @@
 
 1	Lily	NNP
 2	's	POS
-3	grandmother	NN
+3	grandmother	JJ
 4	,	,
 5	no	DT
 6	cookie	JJ
@@ -63832,7 +63832,7 @@
 13	her	PRP$
 14	saucy	JJ
 15	,	,
-16	poignant	JJ
+16	poignant	NNP
 17	probe	NN
 18	into	IN
 19	the	DT
@@ -63873,7 +63873,7 @@
 4	past	JJ
 5	and	CC
 6	present	JJ
-7	worlds	NNS
+7	worlds	NN
 8	of	IN
 9	``	``
 10	The	DT
@@ -63882,7 +63882,7 @@
 13	''	''
 14	(	-LRB-
 15	Atlantic	NNP
-16	Monthly	JJ
+16	Monthly	NNP
 17	Press	NNP
 18	,	,
 19	200	CD
@@ -63957,7 +63957,7 @@
 9	of	IN
 10	the	DT
 11	early	JJ
-12	'70s	NNS
+12	'70s	NN
 13	,	,
 14	when	WRB
 15	people	NNS
@@ -64054,7 +64054,7 @@
 17	who	WP
 18	's	VBZ
 19	so	RB
-20	addicted	VBN
+20	addicted	JJ
 21	to	TO
 22	soap	NN
 23	operas	NN
@@ -64072,7 +64072,7 @@
 35	disappears	VBZ
 36	for	IN
 37	drug-seeking	NNP
-38	forays	NNS
+38	forays	NNP
 39	into	IN
 40	Manhattan	NNP
 41	.	.
@@ -64150,7 +64150,7 @@
 12	part-owner	JJ
 13	of	IN
 14	the	DT
-15	smelter	NN
+15	smelter	JJ
 16	,	,
 17	that	WDT
 18	it	PRP
@@ -64202,17 +64202,17 @@
 15	unit	NN
 16	of	IN
 17	a	DT
-18	Bermuda	NNP
+18	Bermuda	JJ
 19	concern	NN
 20	,	,
 21	potentially	RB
-22	exempting	VBG
+22	exempting	JJ
 23	it	PRP
 24	from	IN
 25	liability	NN
 26	for	IN
 27	the	DT
-28	smelter	NN
+28	smelter	JJ
 29	's	POS
 30	cleanup	NN
 31	costs	NNS
@@ -64236,7 +64236,7 @@
 16	made	VBN
 17	certain	JJ
 18	voluntary	JJ
-19	undertakings	NNS
+19	undertakings	NN
 20	with	IN
 21	respect	NN
 22	to	TO
@@ -64563,7 +64563,7 @@
 40	years	NNS
 41	may	MD
 42	be	VB
-43	abating	VBG
+43	abating	JJ
 44	.	.
 
 1	``	``
@@ -64572,9 +64572,9 @@
 4	a	DT
 5	reaction	NN
 6	to	TO
-7	artificial	JJ
-8	LBO	NN
-9	valuations	NNS
+7	artificial	VB
+8	LBO	NNP
+9	valuations	NNP
 10	,	,
 11	rather	RB
 12	than	IN
@@ -64775,8 +64775,8 @@
 23	,	,
 24	who	WP
 25	was	VBD
-26	leisurely	JJ
-27	strolling	NN
+26	leisurely	CD
+27	strolling	CD
 28	through	IN
 29	the	DT
 30	bright	JJ
@@ -64963,7 +64963,7 @@
 19	,	,
 20	Mr.	NNP
 21	Crandall	NNP
-22	smiled	VBD
+22	smiled	NNP
 23	broadly	RB
 24	and	CC
 25	said	VBD
@@ -65010,7 +65010,7 @@
 34	,	,
 35	then	RB
 36	accelerate	VB
-37	anew	RB
+37	anew	JJ
 38	in	IN
 39	1991	CD
 40	.	.
@@ -65156,7 +65156,7 @@
 26	a	DT
 27	belief	NN
 28	that	IN
-29	rents	NNS
+29	rents	NNP
 30	have	VBP
 31	not	RB
 32	yet	RB
@@ -65274,11 +65274,11 @@
 11	negotiate	VB
 12	to	TO
 13	pay	VB
-14	rents	NNS
+14	rents	JJ
 15	that	IN
 16	are	VBP
 17	about	RB
-18	one-quarter	NN
+18	one-quarter	JJ
 19	lower	JJR
 20	than	IN
 21	landlords	NNP
@@ -65317,7 +65317,7 @@
 27	see	VBP
 28	as	RB
 29	astronomical	JJ
-30	rents	NNS
+30	rents	NN
 31	.	.
 
 1	And	CC
@@ -65326,12 +65326,12 @@
 4	some	DT
 5	neighborhoods	NNS
 6	,	,
-7	rents	VBZ
-8	have	VB
+7	rents	NNP
+8	have	VBP
 9	merely	RB
 10	hit	VBN
 11	a	DT
-12	plateau	NN
+12	plateau	JJ
 13	.	.
 
 1	But	CC
@@ -65340,7 +65340,7 @@
 4	,	,
 5	Manhattan	NNP
 6	retail	JJ
-7	rents	NNS
+7	rents	NN
 8	have	VBP
 9	dropped	VBN
 10	10	CD
@@ -65373,8 +65373,8 @@
 12	,	,
 13	after	IN
 14	Manhattan	NNP
-15	rents	VBZ
-16	had	VBN
+15	rents	NNP
+16	had	VBD
 17	run	VBN
 18	up	RP
 19	rapidly	RB
@@ -65411,7 +65411,7 @@
 14	use	VB
 15	retail	JJ
 16	services	NNS
-17	shrinks	VBZ
+17	shrinks	JJ
 18	,	,
 19	''	''
 20	says	VBZ
@@ -65488,7 +65488,7 @@
 14	about	IN
 15	expanding	VBG
 16	and	CC
-17	rents	NNS
+17	rents	NNP
 18	have	VBP
 19	remained	VBN
 20	steady	JJ
@@ -65586,7 +65586,7 @@
 2	trend	NN
 3	toward	IN
 4	lower	JJR
-5	rents	NNS
+5	rents	NN
 6	may	MD
 7	seem	VB
 8	surprising	JJ
@@ -65607,7 +65607,7 @@
 23	businesses	NNS
 24	to	TO
 25	high	JJ
-26	rents	NNS
+26	rents	NN
 27	.	.
 
 1	But	CC
@@ -65664,7 +65664,7 @@
 1	New	NNP
 2	York	NNP
 3	retail	JJ
-4	rents	NNS
+4	rents	NN
 5	still	RB
 6	run	VB
 7	well	RB
@@ -65688,7 +65688,7 @@
 8	Street	NNP
 9	can	MD
 10	command	VB
-11	rents	NNS
+11	rents	JJ
 12	of	IN
 13	up	RB
 14	to	TO
@@ -65712,7 +65712,7 @@
 4	Street	NNP
 5	area	NN
 6	offers	VBZ
-7	rents	NNS
+7	rents	JJ
 8	of	IN
 9	about	IN
 10	$	$
@@ -65734,7 +65734,7 @@
 1	By	IN
 2	contrast	NN
 3	,	,
-4	rentals	NNS
+4	rentals	NNP
 5	in	IN
 6	the	DT
 7	best	JJS
@@ -65757,12 +65757,12 @@
 24	.	.
 
 1	And	CC
-2	rents	NNS
+2	rents	NNP
 3	on	IN
 4	Beverly	NNP
 5	Hills	NNP
 6	'	POS
-7	Rodeo	NN
+7	Rodeo	JJ
 8	Drive	NN
 9	generally	RB
 10	do	VBP
@@ -66070,7 +66070,7 @@
 21	88	CD
 22	years	NNS
 23	,	,
-24	collectively	RB
+24	collectively	NNP
 25	,	,
 26	of	IN
 27	service	NN
@@ -66609,7 +66609,7 @@
 3	he	PRP
 4	takes	VBZ
 5	some	DT
-6	defeats	VBZ
+6	defeats	JJ
 7	more	JJR
 8	personally	RB
 9	than	IN
@@ -66858,7 +66858,7 @@
 37	are	VBP
 38	defending	VBG
 39	a	DT
-40	legacy	NN
+40	legacy	JJ
 41	that	IN
 42	they	PRP
 43	created	VBD
@@ -67139,7 +67139,7 @@
 10	the	DT
 11	highest	JJS
 12	rate	NN
-13	payers	NNS
+13	payers	NN
 14	in	IN
 15	the	DT
 16	Texas	NNP
@@ -67575,7 +67575,7 @@
 4	,	,
 5	offering	VBG
 6	of	IN
-7	1,250,000	CD
+7	1,250,000	NNP
 8	common	JJ
 9	shares	NNS
 10	,	,
@@ -67786,7 +67786,7 @@
 35	back	RP
 36	on	IN
 37	merchandise	NN
-38	giveaways	NNS
+38	giveaways	NN
 39	.	.
 
 1	In	IN
@@ -67817,7 +67817,7 @@
 26	use	NN
 27	of	IN
 28	electronic	JJ
-29	giveaways	NNS
+29	giveaways	NN
 30	such	JJ
 31	as	IN
 32	telephones	NNS
@@ -68047,7 +68047,7 @@
 6	of	IN
 7	the	DT
 8	more	JJR
-9	cost-conscious	JJ
+9	cost-conscious	NN
 10	Time	NN
 11	Warner	NNP
 12	,	,
@@ -68108,8 +68108,8 @@
 1	Time	NNP
 2	magazine	NN
 3	executives	NNS
-4	predictably	RB
-5	paint	VBP
+4	predictably	JJ
+5	paint	NN
 6	the	DT
 7	circulation	NN
 8	cut	VBD
@@ -68384,7 +68384,7 @@
 20	reliant	NN
 21	on	IN
 22	electronic	JJ
-23	giveaways	NNS
+23	giveaways	NN
 24	,	,
 25	and	CC
 26	in	IN
@@ -68542,12 +68542,12 @@
 8	has	VBZ
 9	hit	VBN
 10	a	DT
-11	plateau	NN
+11	plateau	JJ
 12	.	.
 
 1	Although	IN
-2	viewership	NN
-3	soars	NN
+2	viewership	NNP
+3	soars	NNP
 4	when	WRB
 5	big	JJ
 6	news	NN
@@ -68786,8 +68786,8 @@
 33	''	''
 34	programming	NN
 35	with	IN
-36	recognizable	JJ
-37	stars	NNS
+36	recognizable	NNP
+37	stars	VBZ
 38	.	.
 
 1	To	TO
@@ -69553,7 +69553,7 @@
 
 1	She	PRP
 2	's	VBZ
-3	assembling	VBG
+3	assembling	JJ
 4	a	DT
 5	staff	NN
 6	of	IN
@@ -69586,7 +69586,7 @@
 6	created	VBN
 7	by	IN
 8	such	JJ
-9	scoops	VBZ
+9	scoops	NN
 10	will	MD
 11	generate	VB
 12	excitement	NN
@@ -69775,7 +69775,7 @@
 9	to	TO
 10	fear	VB
 11	any	DT
-12	tinkering	NN
+12	tinkering	JJ
 13	with	IN
 14	CNN	NNP
 15	's	POS
@@ -70004,7 +70004,7 @@
 6	you	PRP
 7	leave	VBP
 8	the	DT
-9	realm	NN
+9	realm	JJ
 10	of	IN
 11	reporting	VBG
 12	and	CC
@@ -70702,8 +70702,8 @@
 19	a	DT
 20	``	``
 21	defense	NN
-22	du	NNP
-23	jour	NNP
+22	du	NN
+23	jour	NN
 24	.	.
 25	''	''
 
@@ -70855,7 +70855,7 @@
 9	seven	CD
 10	other	JJ
 11	political	JJ
-12	prisoners	NNS
+12	prisoners	NN
 13	.	.
 
 1	Thousands	NNS
@@ -70920,14 +70920,14 @@
 14	Nelson	NNP
 15	Mandela	NNP
 16	for	IN
-17	plotting	VBG
+17	plotting	NNP
 18	to	TO
 19	overthrow	VB
 20	the	DT
 21	government	NN
 22	,	,
 23	said	VBD
-24	equality	NN
+24	equality	CD
 25	for	IN
 26	blacks	NNS
 27	in	IN
@@ -71009,8 +71009,8 @@
 17	the	DT
 18	nation	NN
 19	were	VBD
-20	piled	VBN
-21	up	RP
+20	piled	CD
+21	up	IN
 22	at	IN
 23	ports	NNS
 24	and	CC
@@ -71115,7 +71115,7 @@
 13	call	NN
 14	for	IN
 15	the	DT
-16	ouster	NN
+16	ouster	JJ
 17	of	IN
 18	Panama	NNP
 19	's	POS
@@ -71423,8 +71423,8 @@
 18	the	DT
 19	number	NN
 20	of	IN
-21	emigres	NNS
-22	expected	VBN
+21	emigres	NNP
+22	expected	VBD
 23	to	TO
 24	flee	VB
 25	to	TO
@@ -71436,7 +71436,7 @@
 
 1	More	RBR
 2	than	IN
-3	2,100	CD
+3	2,100	NNP
 4	others	NNS
 5	escaped	VBD
 6	to	TO
@@ -71577,8 +71577,8 @@
 27	Cairo	NNP
 28	.	.
 
-1	Lebanese	JJ
-2	Christian	JJ
+1	Lebanese	NNP
+2	Christian	NNP
 3	lawmakers	NNS
 4	presented	VBD
 5	to	TO
@@ -71611,7 +71611,7 @@
 4	under	IN
 5	study	NN
 6	gives	VBZ
-7	Damascus	NNP
+7	Damascus	JJ
 8	two	CD
 9	years	NNS
 10	to	TO
@@ -71978,7 +71978,7 @@
 37	for	IN
 38	their	PRP$
 39	own	JJ
-40	self-serving	JJ
+40	self-serving	NN
 41	motives	NNS
 42	.	.
 
@@ -71993,11 +71993,11 @@
 9	that	IN
 10	inflation	NN
 11	still	RB
-12	persists	VBZ
+12	persists	JJ
 13	,	,
 14	and	CC
 15	the	DT
-16	pessimism	NN
+16	pessimism	JJ
 17	over	IN
 18	interest	NN
 19	rates	NNS
@@ -72379,7 +72379,7 @@
 4	energy	NN
 5	prices	NNS
 6	have	VBP
-7	skewed	VBN
+7	skewed	JJ
 8	the	DT
 9	producer	NN
 10	price	NN
@@ -72594,7 +72594,7 @@
 2	I	PRP
 3	think	VBP
 4	the	DT
-5	resurgence	NN
+5	resurgence	JJ
 6	{	-LRB-
 7	in	IN
 8	inflation	NN
@@ -72951,7 +72951,7 @@
 9	indexes	NNS
 10	(	-LRB-
 11	1982	CD
-12	=	SYM
+12	=	CD
 13	100	CD
 14	)	-RRB-
 15	for	IN
@@ -73589,7 +73589,7 @@
 3	,	,
 4	it	PRP
 5	has	VBZ
-6	pared	VBN
+6	pared	JJ
 7	its	PRP$
 8	high-yield	JJ
 9	bond	NN
@@ -73670,7 +73670,7 @@
 8	dispute	NN
 9	over	IN
 10	market	NN
-11	valuations	NNS
+11	valuations	NN
 12	for	IN
 13	the	DT
 14	junk	NN
@@ -73884,8 +73884,8 @@
 8	move	VB
 9	ahead	RB
 10	with	IN
-11	approving	VBG
-12	CenTrust	JJ
+11	approving	NNP
+12	CenTrust	NNP
 13	's	POS
 14	request	NN
 15	to	TO
@@ -74475,7 +74475,7 @@
 5	is	VBZ
 6	filled	VBN
 7	with	IN
-8	low-budget	JJ
+8	low-budget	NNP
 9	game	NN
 10	shows	VBZ
 11	,	,
@@ -74514,7 +74514,7 @@
 13	out	RP
 14	their	PRP$
 15	grammar-school	JJ
-16	classmates	NNS
+16	classmates	NN
 17	for	IN
 18	on-air	NNP
 19	reunions	NNP
@@ -74572,7 +74572,7 @@
 34	whose	WP$
 35	praises	JJ
 36	were	VBD
-37	sung	VBN
+37	sung	CD
 38	each	DT
 39	week	NN
 40	by	IN
@@ -74948,7 +74948,7 @@
 16	herding	JJ
 17	contest	NN
 18	among	IN
-19	sheep	NN
+19	sheep	NNP
 20	dogs	NNS
 21	.	.
 
@@ -74969,7 +74969,7 @@
 15	of	IN
 16	lawn	NN
 17	bowling	NN
-18	contests	NNS
+18	contests	NN
 19	and	CC
 20	still	RB
 21	more	JJR
@@ -75132,8 +75132,8 @@
 12	fictional	JJ
 13	inspector	NN
 14	was	VBD
-15	gunned	VBN
-16	down	RP
+15	gunned	CD
+16	down	IN
 17	in	IN
 18	the	DT
 19	series	NN
@@ -75271,7 +75271,7 @@
 26	,	,
 27	''	''
 28	concedes	VBZ
-29	Colin	NNP
+29	Colin	JJ
 30	Young	NNP
 31	,	,
 32	head	NN
@@ -75445,7 +75445,7 @@
 19	allow	VB
 20	commercial	JJ
 21	television	NN
-22	alongside	IN
+22	alongside	NN
 23	its	PRP$
 24	state	NN
 25	channels	NNS
@@ -75884,7 +75884,7 @@
 13	rivals	NNS
 14	,	,
 15	including	VBG
-16	Matra	NNP
+16	Matra	JJ
 17	S.A.	NNP
 18	in	IN
 19	France	NNP
@@ -75899,7 +75899,7 @@
 
 1	But	CC
 2	neither	DT
-3	Matra	NNP
+3	Matra	JJ
 4	nor	CC
 5	GEC	NNP
 6	--	:
@@ -75929,8 +75929,8 @@
 4	source	NN
 5	close	NN
 6	to	TO
-7	GEC	NNP
-8	confirmed	VBD
+7	GEC	VB
+8	confirmed	VBN
 9	that	IN
 10	his	PRP$
 11	company	NN
@@ -75959,7 +75959,7 @@
 1	Companies	NNS
 2	with	IN
 3	which	WDT
-4	GEC	NNP
+4	GEC	VBZ
 5	has	VBZ
 6	had	VBN
 7	talks	NNS
@@ -75970,7 +75970,7 @@
 12	Ferranti	NNP
 13	bid	NN
 14	include	VBP
-15	Matra	NNP
+15	Matra	JJ
 16	,	,
 17	Britain	NNP
 18	's	POS
@@ -76055,7 +76055,7 @@
 1	Also	RB
 2	,	,
 3	any	DT
-4	GEC	NNP
+4	GEC	JJ
 5	bid	NN
 6	might	MD
 7	be	VB
@@ -76067,14 +76067,14 @@
 13	;	:
 14	Ferranti	NNP
 15	is	VBZ
-16	GEC	NNP
+16	GEC	JJ
 17	's	POS
 18	main	JJ
 19	competitor	NN
 20	on	IN
 21	several	JJ
 22	key	JJ
-23	defense-electronics	NNS
+23	defense-electronics	NN
 24	contracts	NNS
 25	,	,
 26	and	CC
@@ -76106,7 +76106,7 @@
 6	,	,
 7	would	MD
 8	diminish	VB
-9	GEC	NNP
+9	GEC	JJ
 10	's	POS
 11	direct	JJ
 12	role	NN
@@ -76115,7 +76115,7 @@
 15	and	CC
 16	might	MD
 17	consequently	RB
-18	appease	VB
+18	appease	JJ
 19	ministry	NN
 20	officials	NNS
 21	.	.
@@ -76155,7 +76155,7 @@
 2	least	JJS
 3	one	CD
 4	potential	JJ
-5	GEC	NNP
+5	GEC	NN
 6	partner	NN
 7	,	,
 8	Matra	NNP
@@ -76187,7 +76187,7 @@
 16	,	,
 17	''	''
 18	a	DT
-19	Matra	NNP
+19	Matra	JJ
 20	official	NN
 21	said	VBD
 22	Sunday	NNP
@@ -76310,7 +76310,7 @@
 15	AG	NNP
 16	recently	RB
 17	joined	VBD
-18	GEC	NNP
+18	GEC	CD
 19	in	IN
 20	a	DT
 21	takeover	NN
@@ -76338,7 +76338,7 @@
 4	Thomson	NNP
 5	is	VBZ
 6	already	RB
-7	overshadowed	VBN
+7	overshadowed	JJ
 8	by	IN
 9	British	JJ
 10	Aerospace	NN
@@ -76454,7 +76454,7 @@
 8	delay	VB
 9	a	DT
 10	proposed	JJ
-11	two-step	JJ
+11	two-step	NN
 12	,	,
 13	830	NNP
 14	million	CD
@@ -76531,7 +76531,7 @@
 3	production	NN
 4	averaged	VBD
 5	about	IN
-6	1.69	CD
+6	1.69	NNP
 7	million	CD
 8	barrels	NNS
 9	a	DT
@@ -76685,7 +76685,7 @@
 28	and	CC
 29	development	NN
 30	budgets	NNS
-31	accordingly	RB
+31	accordingly	JJ
 32	.	.
 
 1	The	DT
@@ -76778,8 +76778,8 @@
 25	.	.
 
 1	Interprovincial	NNP
-2	transports	VBZ
-3	about	RB
+2	transports	NNP
+3	about	IN
 4	75	CD
 5	%	NN
 6	of	IN
@@ -76818,7 +76818,7 @@
 11	the	DT
 12	U.S.	NNP
 13	is	VBZ
-14	transported	VBN
+14	transported	JJ
 15	on	IN
 16	Interprovincial	NNP
 17	's	POS
@@ -77018,7 +77018,7 @@
 3	of	IN
 4	its	PRP$
 5	proposed	JJ
-6	two-step	JJ
+6	two-step	NN
 7	expansion	NN
 8	,	,
 9	which	WDT
@@ -77207,7 +77207,7 @@
 33	.	.
 
 1	The	DT
-2	service-center	NN
+2	service-center	JJ
 3	business	NN
 4	was	VBD
 5	hurt	VBN
@@ -77402,7 +77402,7 @@
 13	was	VBD
 14	in	IN
 15	the	DT
-16	offing	NN
+16	offing	JJ
 17	--	:
 18	reacted	VBD
 19	by	IN
@@ -77550,7 +77550,7 @@
 8	of	IN
 9	the	DT
 10	14	CD
-11	computer-related	JJ
+11	computer-related	CD
 12	firms	NNS
 13	he	PRP
 14	follows	VBZ
@@ -77638,7 +77638,7 @@
 18	.	.
 
 1	Another	DT
-2	contradictory	NN
+2	contradictory	JJ
 3	message	NN
 4	comes	VBZ
 5	from	IN
@@ -77838,7 +77838,7 @@
 3	two	CD
 4	firms	NNS
 5	are	VBP
-6	collaborating	VBG
+6	collaborating	JJ
 7	on	IN
 8	an	DT
 9	alternative	NN
@@ -77896,7 +77896,7 @@
 11	that	IN
 12	's	VBZ
 13	being	VBG
-14	heralded	VBN
+14	heralded	JJ
 15	as	IN
 16	a	DT
 17	boon	NN
@@ -78039,7 +78039,7 @@
 
 1	He	PRP
 2	expects	VBZ
-3	Aldus	NNP
+3	Aldus	JJ
 4	to	TO
 5	report	VB
 6	earnings	NNS
@@ -78410,8 +78410,8 @@
 6	trend	NN
 7	,	,
 8	longtime	JJ
-9	powerhouses	NNS
-10	H-P	JJ
+9	powerhouses	NN
+10	H-P	NN
 11	,	,
 12	IBM	NNP
 13	and	CC
@@ -79523,7 +79523,7 @@
 27	1987	CD
 28	.	.
 
-1	Per	IN
+1	Per	NNP
 2	capita	NN
 3	personal	JJ
 4	income	NN
@@ -79942,7 +79942,7 @@
 3	previous	JJ
 4	mayor	NN
 5	committed	VBN
-6	suicide	NN
+6	suicide	JJ
 7	last	JJ
 8	year	NN
 9	,	,
@@ -80060,7 +80060,7 @@
 15	Son	NNP
 16	''	''
 17	(	-LRB-
-18	Leisure	NN
+18	Leisure	NNP
 19	&	CC
 20	Arts	NNP
 21	,	,
@@ -80111,7 +80111,7 @@
 
 1	Richard	NNP
 2	Chamberlain	NNP
-3	dresses	NNS
+3	dresses	NNP
 4	as	IN
 5	a	DT
 6	``	``
@@ -80257,8 +80257,8 @@
 16	a	DT
 17	new	JJ
 18	ABC	NNP
-19	sitcom	NN
-20	airing	VBG
+19	sitcom	NNP
+20	airing	NN
 21	on	IN
 22	Tuesday	NNP
 23	nights	NNS
@@ -80606,7 +80606,7 @@
 17	``	``
 18	like	IN
 19	a	DT
-20	dinosaur	NN
+20	dinosaur	JJ
 21	.	.
 
 1	People	NNS
@@ -80719,7 +80719,7 @@
 15	cut	VB
 16	both	DT
 17	the	DT
-18	self	NN
+18	self	JJ
 19	and	CC
 20	the	DT
 21	audience	NN
@@ -80773,7 +80773,7 @@
 22	can	MD
 23	serve	VB
 24	as	IN
-25	mechanisms	NNS
+25	mechanisms	NNP
 26	for	IN
 27	easing	VBG
 28	tensions	NNS
@@ -81090,7 +81090,7 @@
 19	member	NN
 20	of	IN
 21	the	DT
-22	Nation	NN
+22	Nation	JJ
 23	of	IN
 24	Islam	NNP
 25	.	.
@@ -81162,12 +81162,12 @@
 8	evidenced	VBN
 9	by	IN
 10	its	PRP$
-11	reappearance	NN
+11	reappearance	JJ
 12	in	IN
 13	a	DT
 14	1972	CD
 15	CBS	NNP
-16	sitcom	NN
+16	sitcom	NNP
 17	called	VBD
 18	``	``
 19	Bridget	JJ
@@ -81324,8 +81324,8 @@
 5	the	DT
 6	incompatibility	JJ
 7	between	IN
-8	sitcom	NN
-9	preachiness	NN
+8	sitcom	NNP
+9	preachiness	NNP
 10	and	CC
 11	Mr.	NNP
 12	Mason	NNP
@@ -81358,7 +81358,7 @@
 22	when	WRB
 23	Mr.	NNP
 24	Mason	NNP
-25	slips	VBZ
+25	slips	NNP
 26	into	IN
 27	his	PRP$
 28	standup	JJ
@@ -81391,7 +81391,7 @@
 8	spark	VB
 9	because	IN
 10	this	DT
-11	sitcom	NN
+11	sitcom	JJ
 12	,	,
 13	like	IN
 14	all	DT
@@ -81484,7 +81484,7 @@
 18	line	NN
 19	about	IN
 20	``	``
-21	caring	VBG
+21	caring	JJ
 22	for	IN
 23	other	JJ
 24	people	NNS
@@ -81788,7 +81788,7 @@
 19	the	DT
 20	possibility	NN
 21	of	IN
-22	enacting	VBG
+22	enacting	NNP
 23	a	DT
 24	gains	NNS
 25	tax	NN
@@ -82124,7 +82124,7 @@
 23	year	NN
 24	.	.
 
-1	Opponents	NNS
+1	Opponents	NNP
 2	of	IN
 3	the	DT
 4	cut	NN
@@ -82256,8 +82256,8 @@
 2	Senate	NNP
 3	bill	NN
 4	was	VBD
-5	pared	VBN
-6	back	RP
+5	pared	CD
+6	back	NN
 7	in	IN
 8	an	DT
 9	attempt	NN
@@ -82499,7 +82499,7 @@
 4	child-care	JJ
 5	initiative	NN
 6	and	CC
-7	extensions	NNS
+7	extensions	NNP
 8	of	IN
 9	soon-to-expire	NNP
 10	tax	NN
@@ -82626,7 +82626,7 @@
 18	that	IN
 19	would	MD
 20	have	VB
-21	overhauled	VBN
+21	overhauled	JJ
 22	the	DT
 23	entire	JJ
 24	physician-reimbursement	NN
@@ -83182,8 +83182,8 @@
 19	.	.
 
 1	--	:
-2	Speed	VB
-3	up	RP
+2	Speed	CD
+3	up	IN
 4	the	DT
 5	collection	NN
 6	of	IN
@@ -83213,7 +83213,7 @@
 12	used	VBN
 13	in	IN
 14	air	NN
-15	conditioners	NNS
+15	conditioners	NN
 16	and	CC
 17	in	IN
 18	Styrofoam	NNP
@@ -83235,7 +83235,7 @@
 4	taxes	NNS
 5	from	IN
 6	the	DT
-7	paychecks	NNS
+7	paychecks	JJ
 8	of	IN
 9	certain	JJ
 10	farm	NN
@@ -83340,7 +83340,7 @@
 4	:	:
 
 1	--	:
-2	Reduction	NNP
+2	Reduction	CD
 3	of	IN
 4	Medicare	NNP
 5	spending	NN
@@ -83435,7 +83435,7 @@
 21	New	NNP
 22	York	NNP
 23	's	POS
-24	LaGuardia	NNP
+24	LaGuardia	JJ
 25	and	CC
 26	John	NNP
 27	F.	NNP
@@ -83537,7 +83537,7 @@
 5	overly	RB
 6	optimistic	JJ
 7	,	,
-8	outdated	VBN
+8	outdated	NNP
 9	piece	NN
 10	on	IN
 11	how	WRB
@@ -83577,7 +83577,7 @@
 11	a	DT
 12	thorough	JJ
 13	and	CC
-14	exhausting	JJ
+14	exhausting	NNP
 15	job	NN
 16	search	NN
 17	,	,
@@ -83708,8 +83708,8 @@
 6	you	PRP
 7	captioned	VBZ
 8	the	DT
-9	graph	NN
-10	showing	VBG
+9	graph	JJ
+10	showing	NN
 11	the	DT
 12	average	JJ
 13	number	NN
@@ -83722,7 +83722,7 @@
 20	as	IN
 21	``	``
 22	Time	NNP
-23	Off	IN
+23	Off	NNP
 24	.	.
 25	''	''
 
@@ -83778,7 +83778,7 @@
 6	is	VBZ
 7	a	DT
 8	U.S.	NNP
-9	majority-owned	JJ
+9	majority-owned	NNP
 10	unit	NN
 11	of	IN
 12	Cie.	NNP
@@ -83914,7 +83914,7 @@
 12	.	.
 
 1	FRANKLIN	NNP
-2	SAVINGS	NNPS
+2	SAVINGS	NNP
 3	ASSOCIATION	NNP
 4	(	-LRB-
 5	Ottawa	NNP
@@ -84222,7 +84222,7 @@
 4	major	JJ
 5	support	NN
 6	until	IN
-7	2200	CD
+7	2200	NNP
 8	.	.
 
 1	I	PRP
@@ -84232,7 +84232,7 @@
 5	of	IN
 6	going	VBG
 7	to	TO
-8	2200	CD
+8	2200	VB
 9	this	DT
 10	month	NN
 11	.	.
@@ -84383,8 +84383,8 @@
 
 1	``	``
 2	Those	DT
-3	corrections	NNS
-4	lasted	VBD
+3	corrections	JJ
+4	lasted	VBN
 5	one	CD
 6	to	TO
 7	four	CD
@@ -84440,7 +84440,7 @@
 19	just	RB
 20	be	VB
 21	a	DT
-22	fluke	NN
+22	fluke	JJ
 23	.	.
 
 1	My	PRP$
@@ -84560,7 +84560,7 @@
 13	.	.
 
 1	``	``
-2	Margin	NN
+2	Margin	JJ
 3	debt	NN
 4	was	VBD
 5	at	IN
@@ -85666,7 +85666,7 @@
 6	could	MD
 7	go	VB
 8	to	TO
-9	2200	CD
+9	2200	VB
 10	very	RB
 11	soon	RB
 12	.	.
@@ -86237,7 +86237,7 @@
 11	of	IN
 12	waste	NN
 13	and	CC
-14	inefficiency	NN
+14	inefficiency	NNP
 15	?	.
 
 1	Such	JJ
@@ -86290,7 +86290,7 @@
 14	,	,
 15	embezzlement	NNP
 16	,	,
-17	influence-peddling	NN
+17	influence-peddling	NNP
 18	and	CC
 19	abuse	NN
 20	of	IN
@@ -86334,7 +86334,7 @@
 18	,	,
 19	embezzlement	NNP
 20	,	,
-21	influence-peddling	NN
+21	influence-peddling	NNP
 22	and	CC
 23	abuse	NN
 24	of	IN
@@ -86441,7 +86441,7 @@
 4	have	VB
 5	their	PRP$
 6	hands	NNS
-7	slapped	VBD
+7	slapped	JJ
 8	.	.
 
 1	It	PRP
@@ -86489,7 +86489,7 @@
 17	danger	NN
 18	to	TO
 19	American	NNP
-20	notions	NNS
+20	notions	NNP
 21	of	IN
 22	liberty	NN
 23	and	CC
@@ -87043,7 +87043,7 @@
 12	?	.
 
 1	In	IN
-2	academia	NN
+2	academia	NNP
 3	,	,
 4	a	DT
 5	so-called	JJ
@@ -87118,7 +87118,7 @@
 
 1	In	IN
 2	the	DT
-3	'70s	NNS
+3	'70s	JJ
 4	,	,
 5	the	DT
 6	market	NN
@@ -87783,7 +87783,7 @@
 14	York	NNP
 15	,	,
 16	said	VBD
-17	proudly	RB
+17	proudly	CD
 18	that	IN
 19	his	PRP$
 20	company	NN
@@ -87864,7 +87864,7 @@
 6	,	,
 7	prices	NNS
 8	fall	VBP
-9	steeply	RB
+9	steeply	JJ
 10	and	CC
 11	fast	RB
 12	.	.
@@ -88403,7 +88403,7 @@
 5	said	VBD
 6	retail	JJ
 7	investors	NNS
-8	nervously	RB
+8	nervously	JJ
 9	sold	VBN
 10	stock	NN
 11	Friday	NNP
@@ -88560,7 +88560,7 @@
 5	of	IN
 6	the	DT
 7	largest	JJS
-8	nonfinancial	JJ
+8	nonfinancial	NN
 9	issues	NNS
 10	,	,
 11	including	VBG
@@ -89218,7 +89218,7 @@
 2	ACCEPTANCES	NNS
 3	:	:
 
-1	8.52	CD
+1	8.52	NNP
 2	%	NN
 3	30	CD
 4	days	NNS
@@ -89465,7 +89465,7 @@
 33	million	CD
 34	:	:
 
-1	7.63	CD
+1	7.63	NNP
 2	%	NN
 3	13	CD
 4	weeks	NNS
@@ -89557,7 +89557,7 @@
 16	par	NN
 17	)	-RRB-
 
-1	9.86	CD
+1	9.86	NNP
 2	%	NN
 3	,	,
 4	standard	JJ
@@ -89651,7 +89651,7 @@
 
 1	Rightly	NNP
 2	or	CC
-3	wrongly	RB
+3	wrongly	NNP
 4	,	,
 5	many	JJ
 6	giant	NN
@@ -89809,8 +89809,8 @@
 7	if	IN
 8	the	DT
 9	market	NN
-10	weakens	VBZ
-11	further	RB
+10	weakens	NN
+11	further	RBR
 12	.	.
 
 1	Denver-based	JJ
@@ -89939,7 +89939,7 @@
 2	There	EX
 3	is	VBZ
 4	no	DT
-5	justification	NN
+5	justification	JJ
 6	on	IN
 7	the	DT
 8	fundamental	JJ
@@ -89960,7 +89960,7 @@
 8	forced	VBN
 9	to	TO
 10	sell	VB
-11	stockholdings	NNS
+11	stockholdings	JJ
 12	when	WRB
 13	investors	NNS
 14	rush	VBP
@@ -89985,7 +89985,7 @@
 33	market	NN
 34	storms	NN
 35	without	IN
-36	jettisoning	VBG
+36	jettisoning	NNP
 37	stock	NN
 38	.	.
 
@@ -90004,7 +90004,7 @@
 13	to	TO
 14	be	VB
 15	the	DT
-16	best-performing	JJS
+16	best-performing	JJ
 17	long-term	JJ
 18	investment	NN
 19	,	,
@@ -90361,7 +90361,7 @@
 15	thought	VBD
 16	to	TO
 17	have	VB
-18	worsened	VBN
+18	worsened	JJ
 19	the	DT
 20	1987	CD
 21	crash	NN
@@ -90563,7 +90563,7 @@
 5	will	MD
 6	be	VB
 7	a	DT
-8	rigor	NN
+8	rigor	JJ
 9	mortis	NN
 10	rally	NN
 11	,	,
@@ -90807,7 +90807,7 @@
 6	FDA	NNP
 7	has	VBZ
 8	asked	VBN
-9	Bolar	NNP
+9	Bolar	JJ
 10	Pharmaceutical	NNP
 11	Co.	NNP
 12	to	TO
@@ -90819,7 +90819,7 @@
 18	its	PRP$
 19	urinary	JJ
 20	tract	NN
-21	antibiotic	JJ
+21	antibiotic	NN
 22	.	.
 
 1	But	CC
@@ -90981,7 +90981,7 @@
 10	to	TO
 11	challenge	VB
 12	the	DT
-13	legality	NN
+13	legality	JJ
 14	of	IN
 15	a	DT
 16	widely	RB
@@ -91071,7 +91071,7 @@
 3	courts	NNS
 4	uphold	JJ
 5	the	DT
-6	validity	NN
+6	validity	JJ
 7	of	IN
 8	this	DT
 9	type	NN
@@ -91132,7 +91132,7 @@
 32	shareholders	NNS
 33	.	.
 
-1	Speaking	VBG
+1	Speaking	NNP
 2	through	IN
 3	its	PRP$
 4	Dutch	JJ
@@ -91424,7 +91424,7 @@
 14	agreement	NN
 15	on	IN
 16	a	DT
-17	deficit-cutting	NN
+17	deficit-cutting	JJ
 18	bill	NN
 19	.	.
 
@@ -91949,7 +91949,7 @@
 30	survive	VB
 31	a	DT
 32	one-day	JJ
-33	508-point	JJ
+33	508-point	NN
 34	tumble	NN
 35	.	.
 
@@ -92232,7 +92232,7 @@
 46	``	``
 47	Face	JJ
 48	the	DT
-49	Nation	NN
+49	Nation	JJ
 50	.	.
 51	''	''
 
@@ -92243,7 +92243,7 @@
 5	maneuverings	JJ
 6	on	IN
 7	the	DT
-8	deficit-cutting	NN
+8	deficit-cutting	JJ
 9	bill	NN
 10	and	CC
 11	the	DT
@@ -92578,7 +92578,7 @@
 9	the	DT
 10	blame	NN
 11	for	IN
-12	provoking	VBG
+12	provoking	NNP
 13	Friday	NNP
 14	's	POS
 15	drop	NN
@@ -92835,8 +92835,8 @@
 7	)	-RRB-
 8	Liquid	NNP
 9	Yield	NNP
-10	Option	NN
-11	Notes	NNS
+10	Option	NNP
+11	Notes	NNPS
 12	,	,
 13	via	IN
 14	Merrill	NNP
@@ -93072,7 +93072,7 @@
 
 1	California	NNP
 2	Health	NNP
-3	Facilities	NNPS
+3	Facilities	NNP
 4	Financing	NNP
 5	Authority	NNP
 6	--	:
@@ -93124,7 +93124,7 @@
 1	Pennsylvania	NNP
 2	Higher	JJR
 3	Education	NNP
-4	Facilities	NNPS
+4	Facilities	NNP
 5	Authority	NNP
 6	--	:
 
@@ -93191,7 +93191,7 @@
 
 1	West	NNP
 2	Virginia	NNP
-3	Parkways	NNPS
+3	Parkways	NNP
 4	,	,
 5	Economic	NNP
 6	Development	NNP
@@ -93204,7 +93204,7 @@
 2	143	CD
 3	million	CD
 4	of	IN
-5	parkway	NN
+5	parkway	NNP
 6	revenue	NN
 7	bonds	NNS
 8	,	,
@@ -93442,7 +93442,7 @@
 10	they	PRP
 11	did	VBD
 12	n't	RB
-13	flee	VB
+13	flee	JJ
 14	the	DT
 15	market	NN
 16	in	IN
@@ -93576,7 +93576,7 @@
 11	said	VBD
 12	no	DT
 13	special	JJ
-14	bulletins	NNS
+14	bulletins	NN
 15	or	CC
 16	emergency	NN
 17	meetings	NNS
@@ -93764,7 +93764,7 @@
 10	market	NN
 11	could	MD
 12	be	VB
-13	stabilized	VBN
+13	stabilized	JJ
 14	if	IN
 15	California	NNP
 16	investor	NN
@@ -94331,11 +94331,11 @@
 2	,	,
 3	''	''
 4	said	VBD
-5	Pascal	NNP
-6	Antori	NNP
+5	Pascal	CD
+6	Antori	CD
 7	,	,
 8	an	DT
-9	Akron	NNP
+9	Akron	JJ
 10	,	,
 11	Ohio	NNP
 12	,	,
@@ -94463,12 +94463,12 @@
 2	's	POS
 3	series	NN
 4	of	IN
-5	notebooks	NNS
+5	notebooks	NNP
 6	extends	VBZ
 7	a	DT
 8	trend	NN
 9	toward	IN
-10	downsizing	VBG
+10	downsizing	NNP
 11	in	IN
 12	the	DT
 13	personal	JJ
@@ -94523,7 +94523,7 @@
 
 1	Compaq	NNP
 2	's	POS
-3	notebooks	NNS
+3	notebooks	JJ
 4	,	,
 5	by	IN
 6	contrast	NN
@@ -94632,7 +94632,7 @@
 30	that	IN
 31	are	VBP
 32	called	VBN
-33	notebooks	NNS
+33	notebooks	JJ
 34	--	:
 35	perhaps	RB
 36	misleadingly	JJ
@@ -94809,7 +94809,7 @@
 42	to	TO
 43	run	VB
 44	some	DT
-45	spreadsheets	NNS
+45	spreadsheets	JJ
 46	and	CC
 47	word	NN
 48	processing	NN
@@ -94886,8 +94886,8 @@
 16	calls	VBZ
 17	``	``
 18	the	DT
-19	Holy	NNP
-20	Grail	NNP
+19	Holy	JJ
+20	Grail	NN
 21	of	IN
 22	the	DT
 23	computer	NN
@@ -94995,7 +94995,7 @@
 6	,	,
 7	which	WDT
 8	now	RB
-9	comprise	VB
+9	comprise	JJ
 10	12	CD
 11	%	NN
 12	of	IN
@@ -95044,7 +95044,7 @@
 14	compromises	NNS
 15	.	.
 
-1	Making	VBG
+1	Making	NNP
 2	computers	NNS
 3	smaller	JJR
 4	often	RB
@@ -95056,7 +95056,7 @@
 1	It	PRP
 2	also	RB
 3	has	VBZ
-4	precluded	VBN
+4	precluded	JJ
 5	use	NN
 6	of	IN
 7	the	DT
@@ -95103,7 +95103,7 @@
 5	for	IN
 6	example	NN
 7	,	,
-8	criticizes	VBZ
+8	criticizes	NNP
 9	the	DT
 10	Atari	JJ
 11	Portfolio	NN
@@ -95397,7 +95397,7 @@
 26	floppy	NNP
 27	disk	NN
 28	,	,
-29	whereas	IN
+29	whereas	NNP
 30	Compaq	NNP
 31	's	POS
 32	new	JJ
@@ -95504,7 +95504,7 @@
 21	Compaq	NNP
 22	and	CC
 23	a	DT
-24	stopper	NN
+24	stopper	JJ
 25	for	IN
 26	everyone	NN
 27	else	RB
@@ -95767,7 +95767,7 @@
 26	to	TO
 27	get	VB
 28	into	IN
-29	notebooks	NNS
+29	notebooks	NNP
 30	anytime	RB
 31	soon	RB
 32	.	.
@@ -96582,7 +96582,7 @@
 18	calls	VBZ
 19	.	.
 
-1	Margin	NN
+1	Margin	NNP
 2	calls	VBZ
 3	since	IN
 4	Friday	NNP
@@ -97264,8 +97264,8 @@
 25	,	,
 26	''	''
 27	said	VBD
-28	Rod	NNP
-29	Perth	NNP
+28	Rod	CD
+29	Perth	CD
 30	,	,
 31	who	WP
 32	was	VBD
@@ -97367,7 +97367,7 @@
 38	,	,
 39	and	CC
 40	``	``
-41	Nightline	NNP
+41	Nightline	JJ
 42	''	''
 43	on	IN
 44	ABC-TV	NNP
@@ -97949,7 +97949,7 @@
 19	's	POS
 20	computers	NNS
 21	as	IN
-22	complementary	JJ
+22	complementary	NNP
 23	to	TO
 24	IBM	NNP
 25	's	POS
@@ -97974,7 +97974,7 @@
 16	machines	NNS
 17	are	VBP
 18	n't	RB
-19	replacements	NNS
+19	replacements	JJ
 20	for	IN
 21	IBM	NNP
 22	's	POS
@@ -98005,7 +98005,7 @@
 2	stock	NN
 3	market	NN
 4	's	POS
-5	swoon	NN
+5	swoon	JJ
 6	may	MD
 7	turn	VB
 8	out	RP
@@ -98484,7 +98484,7 @@
 18	Funds	NNPS
 19	rate	NN
 20	to	TO
-21	8.625	CD
+21	8.625	VB
 22	%	NN
 23	late	RB
 24	Friday	NNP
@@ -98784,7 +98784,7 @@
 2	A	DT
 3	lot	NN
 4	of	IN
-5	pent-up	JJ
+5	pent-up	NNP
 6	demand	NN
 7	is	VBZ
 8	gone	VBN
@@ -98948,7 +98948,7 @@
 10	the	DT
 11	greater	JJR
 12	its	PRP$
-13	sensitivity	NN
+13	sensitivity	JJ
 14	to	TO
 15	an	DT
 16	economic	JJ
@@ -98993,7 +98993,7 @@
 11	--	:
 12	hence	RB
 13	its	PRP$
-14	readiness	NN
+14	readiness	JJ
 15	to	TO
 16	pump	VB
 17	credit	NN
@@ -99083,7 +99083,7 @@
 17	it	PRP
 18	's	VBZ
 19	an	DT
-20	outbreak	NN
+20	outbreak	JJ
 21	of	IN
 22	uncontrolled	NNP
 23	inflation	NN
@@ -99282,7 +99282,7 @@
 19	.	.
 
 1	The	DT
-2	doomsayers	NNS
+2	doomsayers	JJ
 3	had	VBD
 4	a	DT
 5	receptive	JJ
@@ -99784,7 +99784,7 @@
 25	,	,
 26	such	JJ
 27	as	IN
-28	ethylene	NN
+28	ethylene	NNP
 29	.	.
 
 1	Analysts	NNS
@@ -99912,7 +99912,7 @@
 11	losses	NNS
 12	in	IN
 13	its	PRP$
-14	G.D.	NNP
+14	G.D.	JJ
 15	Searle	NNP
 16	&	CC
 17	Co.	NNP
@@ -100213,7 +100213,7 @@
 24	outstanding	JJ
 25	for	IN
 26	the	DT
-27	Himont	NNP
+27	Himont	JJ
 28	shares	NNS
 29	it	PRP
 30	does	VBZ
@@ -100667,7 +100667,7 @@
 22	securities	NNS
 23	,	,
 24	to	TO
-25	10.05	CD
+25	10.05	VB
 26	%	NN
 27	,	,
 28	or	CC
@@ -100718,7 +100718,7 @@
 15	securities	NNS
 16	.	.
 
-1	Pricing	NN
+1	Pricing	NNP
 2	details	NNS
 3	were	VBD
 4	n't	RB
@@ -100761,7 +100761,7 @@
 12	8	CD
 13	%	NN
 14	securities	NNS
-15	pooled	VBN
+15	pooled	JJ
 16	into	IN
 17	a	DT
 18	single	JJ
@@ -101266,7 +101266,7 @@
 29	the	DT
 30	somewhat	RB
 31	more	JJR
-32	comforting	JJ
+32	comforting	NN
 33	total	NN
 34	employment	NN
 35	figures	NNS
@@ -101285,7 +101285,7 @@
 8	industrial	JJ
 9	output	NN
 10	number	NN
-11	underscores	VBZ
+11	underscores	NN
 12	the	DT
 13	differences	NNS
 14	:	:
@@ -101307,7 +101307,7 @@
 30	,	,
 31	according	VBG
 32	to	TO
-33	MMS	NNP
+33	MMS	VB
 34	.	.
 
 1	A	DT
@@ -101519,7 +101519,7 @@
 6	in	IN
 7	permits	NNS
 8	for	IN
-9	multifamily	JJ
+9	multifamily	NNP
 10	units	NNS
 11	signaled	VBD
 12	an	DT
@@ -101616,7 +101616,7 @@
 8	again	RB
 9	and	CC
 10	completely	RB
-11	discredit	VB
+11	discredit	JJ
 12	yuppies	NNS
 13	and	CC
 14	trading	NN
@@ -101732,7 +101732,7 @@
 38	of	IN
 39	young	JJ
 40	,	,
-41	high-flying	JJ
+41	high-flying	NNP
 42	dealers	NNS
 43	,	,
 44	hired	VBD
@@ -101855,7 +101855,7 @@
 8	room	NN
 9	,	,
 10	the	DT
-11	yuppie	NN
+11	yuppie	JJ
 12	dealers	NNS
 13	do	VBP
 14	little	RB
@@ -102076,7 +102076,7 @@
 13	senior	JJ
 14	executive	NN
 15	innocently	NN
-16	bumble	VBP
+16	bumble	NN
 17	his	PRP$
 18	way	NN
 19	into	IN
@@ -102131,7 +102131,7 @@
 10	stockholder	NN
 11	,	,
 12	kelp	NNP
-13	farming	NN
+13	farming	NNP
 14	on	IN
 15	the	DT
 16	other	JJ
@@ -102364,7 +102364,7 @@
 6	in	IN
 7	a	DT
 8	lavishly	JJ
-9	furnished	JJ
+9	furnished	NN
 10	converted	VBN
 11	church	NN
 12	,	,
@@ -102374,7 +102374,7 @@
 16	and	CC
 17	drives	NNS
 18	an	DT
-19	antique	NN
+19	antique	JJ
 20	car	NN
 21	.	.
 
@@ -102390,7 +102390,7 @@
 10	,	,
 11	to	TO
 12	the	DT
-13	masses	NNS
+13	masses	JJ
 14	,	,
 15	the	DT
 16	script	NN
@@ -102529,7 +102529,7 @@
 7	a	DT
 8	volley	JJ
 9	of	IN
-10	full-page	JJ
+10	full-page	NNP
 11	advertisements	NNS
 12	in	IN
 13	six	CD
@@ -102629,7 +102629,7 @@
 
 1	Perhaps	RB
 2	without	IN
-3	realizing	VBG
+3	realizing	NNP
 4	it	PRP
 5	,	,
 6	Mr.	NNP
@@ -102690,7 +102690,7 @@
 5	with	IN
 6	a	DT
 7	marvelously	JJ
-8	cute	JJ
+8	cute	NN
 9	scene	NN
 10	in	IN
 11	which	WDT
@@ -102771,8 +102771,8 @@
 36	is	VBZ
 37	a	DT
 38	passable	JJ
-39	Tommy	NNP
-40	Noonan	NNP
+39	Tommy	NN
+40	Noonan	NN
 41	and	CC
 42	Dorian	NNP
 43	Healy	NNP
@@ -103880,7 +103880,7 @@
 15	an	DT
 16	even	RB
 17	steeper	JJR
-18	28.7	CD
+18	28.7	NN
 19	%	NN
 20	from	IN
 21	the	DT
@@ -104057,7 +104057,7 @@
 9	car	NN
 10	sales	NNS
 11	,	,
-12	echoing	VBG
+12	echoing	NNP
 13	its	PRP$
 14	generally	RB
 15	slow	VB
@@ -104111,13 +104111,13 @@
 7	Ohio	NNP
 8	,	,
 9	was	VBD
-10	gearing	VBG
-11	up	RP
+10	gearing	CD
+11	up	IN
 12	to	TO
 13	build	VB
 14	1990	CD
 15	model	NN
-16	Accords	NNP
+16	Accords	NN
 17	,	,
 18	a	DT
 19	Honda	NNP
@@ -104169,7 +104169,7 @@
 25	models	NNS
 26	.	.
 
-1	Firm	NN
+1	Firm	NNP
 2	prices	NNS
 3	were	VBD
 4	generally	RB
@@ -104232,9 +104232,9 @@
 3	Domestic	JJ
 4	car	NN
 
-1	d	SYM
+1	d	NNP
 2	-	:
-3	Percentage	NN
+3	Percentage	CD
 4	change	NN
 5	is	VBZ
 6	greater	JJR
@@ -104262,7 +104262,7 @@
 17	earlier	RBR
 18	.	.
 
-1	Percentage	NN
+1	Percentage	NNP
 2	differences	NNS
 3	based	VBN
 4	on	IN
@@ -104454,7 +104454,7 @@
 16	Bueky	NNP
 17	,	,
 18	a	DT
-19	55-year-old	NN
+19	55-year-old	JJ
 20	former	JJ
 21	Hungarian	JJ
 22	refugee	NN
@@ -104462,7 +104462,7 @@
 24	works	VBZ
 25	in	IN
 26	the	DT
-27	Munich	NNP
+27	Munich	JJ
 28	,	,
 29	West	NNP
 30	Germany	NNP
@@ -104514,7 +104514,7 @@
 10	open	JJ
 11	borders	NNS
 12	are	VBP
-13	altering	VBG
+13	altering	JJ
 14	the	DT
 15	network	NN
 16	's	POS
@@ -104755,7 +104755,7 @@
 12	two	CD
 13	popular	JJ
 14	and	CC
-15	gossipy	JJ
+15	gossipy	NNP
 16	Hungarian	JJ
 17	newspapers	NNS
 18	,	,
@@ -104932,7 +104932,7 @@
 23	the	DT
 24	country	NN
 25	's	POS
-26	rulers	NNS
+26	rulers	JJ
 27	were	VBD
 28	trying	VBG
 29	to	TO
@@ -104997,7 +104997,7 @@
 35	lines	NNS
 36	in	IN
 37	central	JJ
-38	Budapest	NNP
+38	Budapest	NN
 39	,	,
 40	''	''
 41	says	VBZ
@@ -105011,9 +105011,9 @@
 49	correspondent	NN
 50	who	WP
 51	helped	VBD
-52	organize	VB
+52	organize	CD
 53	the	DT
-54	Budapest	NNP
+54	Budapest	JJ
 55	location	NN
 56	.	.
 
@@ -105021,7 +105021,7 @@
 2	That	DT
 3	is	VBZ
 4	a	DT
-5	miracle	NN
+5	miracle	JJ
 6	.	.
 7	''	''
 
@@ -105200,7 +105200,7 @@
 16	''	''
 17	says	VBZ
 18	a	DT
-19	Budapest	NNP
+19	Budapest	JJ
 20	translator	NN
 21	.	.
 
@@ -105222,7 +105222,7 @@
 1	Now	RB
 2	,	,
 3	the	DT
-4	toughest	JJS
+4	toughest	JJ
 5	competition	NN
 6	for	IN
 7	Radio	NNP
@@ -105359,7 +105359,7 @@
 18	.	.
 
 1	The	DT
-2	Budapest	NNP
+2	Budapest	JJ
 3	office	NN
 4	plans	VBZ
 5	to	TO
@@ -105370,7 +105370,7 @@
 10	cover	VB
 11	the	DT
 12	latest	JJS
-13	happenings	NNS
+13	happenings	NN
 14	in	IN
 15	Hungarian	JJ
 16	country	NN
@@ -105581,7 +105581,7 @@
 40	afflict	NNP
 41	public	NN
 42	life	NN
-43	anew	RB
+43	anew	NN
 44	.	.
 
 1	The	DT
@@ -105837,7 +105837,7 @@
 5	kept	VBN
 6	alive	JJ
 7	in	IN
-8	sociology	NN
+8	sociology	NNP
 9	departments	NNS
 10	until	IN
 11	a	DT
@@ -105941,14 +105941,14 @@
 16	contagious	JJ
 17	,	,
 18	infecting	NNP
-19	patriotic	JJ
+19	patriotic	NNP
 20	conservatives	NNS
 21	,	,
 22	pay-as-you-go	NNP
 23	moderates	NNS
 24	,	,
 25	and	CC
-26	idealistic	JJ
+26	idealistic	NNP
 27	liberals	NNS
 28	.	.
 
@@ -105992,7 +105992,7 @@
 6	be	VB
 7	applied	VBN
 8	to	TO
-9	first-home	JJ
+9	first-home	VB
 10	purchases	NNS
 11	was	VBD
 12	added	VBN
@@ -106011,7 +106011,7 @@
 1	The	DT
 2	DLC	JJ
 3	plan	NN
-4	envisaged	VBD
+4	envisaged	NN
 5	``	``
 6	volunteers	JJ
 7	''	''
@@ -106256,7 +106256,7 @@
 41	presented	VBN
 42	as	IN
 43	nouvelle	NNP
-44	cuisine	NN
+44	cuisine	NNP
 45	?	.
 
 1	In	IN
@@ -106341,7 +106341,7 @@
 80	for	IN
 81	students	NNS
 82	(	-LRB-
-83	pleasing	VBG
+83	pleasing	NNP
 84	to	TO
 85	the	DT
 86	palate	JJ
@@ -106363,9 +106363,9 @@
 102	program	NN
 103	and	CC
 104	the	DT
-105	Retired	NNP
-106	Senior	NNP
-107	Volunteer	NNP
+105	Retired	JJ
+106	Senior	JJ
+107	Volunteer	NN
 108	,	,
 109	Foster	NNP
 110	Grandparent	NNP
@@ -106387,7 +106387,7 @@
 9	may	MD
 10	add	VB
 11	more	JJR
-12	ingredients	NNS
+12	ingredients	NN
 13	,	,
 14	also	RB
 15	changing	VBG
@@ -106801,7 +106801,7 @@
 14	for	IN
 15	his	PRP$
 16	own	JJ
-17	free-standing	JJ
+17	free-standing	NN
 18	proposal	NN
 19	to	TO
 20	endow	VB
@@ -106867,7 +106867,7 @@
 35	foundation	NN
 36	in	IN
 37	``	``
-38	brokering	VBG
+38	brokering	JJ
 39	''	''
 40	federal	JJ
 41	funds	NNS
@@ -106933,8 +106933,8 @@
 30	''	''
 31	will	MD
 32	be	VB
-33	mobilized	VBN
-34	only	RB
+33	mobilized	JJ
+34	only	JJ
 35	in	IN
 36	the	DT
 37	imagination	NN
@@ -107462,7 +107462,7 @@
 
 1	One	CD
 2	,	,
-3	co-sponsored	VBN
+3	co-sponsored	NNP
 4	by	IN
 5	Sen.	NNP
 6	Sam	NNP
@@ -107609,7 +107609,7 @@
 14	service	NN
 15	proposals	NNS
 16	--	:
-17	preferably	RB
+17	preferably	CD
 18	mandatory	JJ
 19	ones	NNS
 20	.	.
@@ -107635,7 +107635,7 @@
 19	as	IN
 20	well	RB
 21	as	IN
-22	conferring	VBG
+22	conferring	NNP
 23	rights	NNS
 24	.	.
 
@@ -107953,7 +107953,7 @@
 12	.	.
 13	Consider	VB
 14	the	DT
-15	ingredients	NNS
+15	ingredients	JJ
 16	,	,
 17	not	RB
 18	the	DT
@@ -108165,7 +108165,7 @@
 4	encourage	VB
 5	service	NN
 6	--	:
-7	preferably	RB
+7	preferably	CD
 8	by	IN
 9	all	DT
 10	classes	NNS
@@ -108244,7 +108244,7 @@
 20	students	NNS
 21	tutored	JJ
 22	,	,
-23	day-care	JJ
+23	day-care	NNP
 24	centers	NNS
 25	staffed	JJ
 26	.	.
@@ -109216,7 +109216,7 @@
 7	issued	VBD
 8	a	DT
 9	statement	NN
-10	minimizing	VBG
+10	minimizing	NN
 11	the	DT
 12	stock	NN
 13	market	NN
@@ -109607,7 +109607,7 @@
 2	,	,
 3	Mr.	NNP
 4	Brady	NNP
-5	phoned	VBD
+5	phoned	NNP
 6	Mr.	NNP
 7	Greenspan	NNP
 8	,	,
@@ -109826,8 +109826,8 @@
 4	weekly	JJ
 5	listing	NN
 6	of	IN
-7	unadited	JJ
-8	net	JJ
+7	unadited	NNP
+8	net	NN
 9	asset	NN
 10	values	NNS
 11	of	IN
@@ -109885,7 +109885,7 @@
 
 1	c	SYM
 2	-	:
-3	Translated	VBN
+3	Translated	CD
 4	at	IN
 5	Commercial	NNP
 6	Rand	NNP
@@ -109927,8 +109927,8 @@
 4	phone	NN
 5	.	.
 
-1	Walk	VBP
-2	around	RB
+1	Walk	NNP
+2	around	IN
 3	the	DT
 4	room	NN
 5	;	:
@@ -110916,7 +110916,7 @@
 17	stock	NN
 18	prices	NNS
 19	are	VBP
-20	rallying	VBG
+20	rallying	JJ
 21	.	.
 
 1	On	IN
@@ -111375,7 +111375,7 @@
 40	praiseworthy	JJ
 41	.	.
 
-1	Paying	VBG
+1	Paying	NNP
 2	,	,
 3	say	VBP
 4	,	,
@@ -111956,7 +111956,7 @@
 2	aim	NN
 3	of	IN
 4	the	DT
-5	interruption	NN
+5	interruption	JJ
 6	would	MD
 7	be	VB
 8	to	TO
@@ -112012,7 +112012,7 @@
 8	to	TO
 9	handle	VB
 10	huge	JJ
-11	surges	VBZ
+11	surges	NN
 12	in	IN
 13	trading	NN
 14	volume	NN
@@ -112406,7 +112406,7 @@
 12	''	''
 
 1	After	IN
-2	reopening	VBG
+2	reopening	NNP
 3	for	IN
 4	about	IN
 5	15	CD
@@ -112639,7 +112639,7 @@
 19	stock	NN
 20	drops	VBZ
 21	by	IN
-22	interrupting	VBG
+22	interrupting	NNP
 23	trading	NN
 24	to	TO
 25	give	VB
@@ -112692,7 +112692,7 @@
 
 1	At	IN
 2	the	DT
-3	outset	NN
+3	outset	JJ
 4	the	DT
 5	prime	JJ
 6	target	NN
@@ -112743,7 +112743,7 @@
 29	for	IN
 30	example	NN
 31	,	,
-32	likened	VBD
+32	likened	NNP
 33	to	TO
 34	``	``
 35	barnacles	JJ
@@ -113004,7 +113004,7 @@
 5	marketeers	NN
 6	dismissed	VBD
 7	such	JJ
-8	mechanisms	NNS
+8	mechanisms	NN
 9	as	IN
 10	sops	NNP
 11	to	TO
@@ -113604,7 +113604,7 @@
 16	.	.
 
 1	The	DT
-2	allegation	NN
+2	allegation	JJ
 3	had	VBD
 4	been	VBN
 5	raised	VBN
@@ -113801,7 +113801,7 @@
 7	technical	JJ
 8	reasons	NNS
 9	for	IN
-10	withdrawing	VBG
+10	withdrawing	NNP
 11	,	,
 12	but	CC
 13	some	DT
@@ -114165,7 +114165,7 @@
 31	Cathedral	NN
 32	,	,
 33	where	WRB
-34	czars	NNS
+34	czars	JJ
 35	were	VBD
 36	crowned	CD
 37	...	:
@@ -114177,7 +114177,7 @@
 4	$	$
 5	7.7	CD
 6	million	CD
-7	statue	NN
+7	statue	CD
 8	of	IN
 9	Buddha	NNP
 10	was	VBD
@@ -114194,10 +114194,10 @@
 21	.	.
 
 1	The	DT
-2	statue	NN
+2	statue	JJ
 3	is	VBZ
 4	the	DT
-5	brainchild	NN
+5	brainchild	JJ
 6	of	IN
 7	Sik	NNP
 8	Chi	NNP
@@ -114228,7 +114228,7 @@
 33	some	DT
 34	kind	NN
 35	of	IN
-36	religious	JJ
+36	religious	NNP
 37	symbol	NN
 38	.	.
 
@@ -114246,7 +114246,7 @@
 12	B.	NNP
 13	Iken	NNP
 14	visited	VBD
-15	Justin	NNP
+15	Justin	CD
 16	Products	NNPS
 17	Inc.	NNP
 18	here	RB
@@ -114297,7 +114297,7 @@
 
 1	Replied	NNP
 2	a	DT
-3	Justin	NNP
+3	Justin	JJ
 4	salesman	NN
 5	:	:
 6	``	``
@@ -114306,7 +114306,7 @@
 9	''	''
 
 1	The	DT
-2	Justin	NNP
+2	Justin	JJ
 3	merchandise	NN
 4	carried	VBD
 5	wholesale	JJ
@@ -114356,7 +114356,7 @@
 14	underselling	NNP
 15	Sony	NNP
 16	--	:
-17	Justin	NNP
+17	Justin	CD
 18	got	VBD
 19	a	DT
 20	costly	JJ
@@ -114401,7 +114401,7 @@
 1	Seeking	VBG
 2	to	TO
 3	keep	VB
-4	Justin	NNP
+4	Justin	JJ
 5	's	POS
 6	``	``
 7	My	PRP$
@@ -114450,7 +114450,7 @@
 7	a	DT
 8	lot	NN
 9	for	IN
-10	61-year-old	JJ
+10	61-year-old	NNP
 11	Leonard	NNP
 12	Kaye	NNP
 13	,	,
@@ -114670,8 +114670,8 @@
 30	,	,
 31	who	WP
 32	previously	RB
-33	guarded	VBN
-34	Rubik	JJ
+33	guarded	JJ
+34	Rubik	NN
 35	's	POS
 36	Cube	JJ
 37	.	.
@@ -114839,7 +114839,7 @@
 6	case	NN
 7	,	,
 8	Justin	NNP
-9	vows	VBZ
+9	vows	NNP
 10	to	TO
 11	fight	VB
 12	on	IN
@@ -114878,7 +114878,7 @@
 17	,	,
 18	who	WP
 19	founded	VBD
-20	Justin	NNP
+20	Justin	CD
 21	in	IN
 22	1982	CD
 23	.	.
@@ -114903,7 +114903,7 @@
 18	find	VB
 19	he	PRP
 20	was	VBD
-21	bored	VBN
+21	bored	CD
 22	.	.
 
 1	With	IN
@@ -114973,7 +114973,7 @@
 24	his	PRP$
 25	line	NN
 26	of	IN
-27	plush	JJ
+27	plush	NNP
 28	toys	NNS
 29	.	.
 
@@ -115003,7 +115003,7 @@
 24	plastic	NN
 25	skin	NN
 26	and	CC
-27	buttons	NNS
+27	buttons	NNP
 28	on	IN
 29	the	DT
 30	famous	JJ
@@ -115133,7 +115133,7 @@
 13	and	CC
 14	so	RB
 15	does	VBZ
-16	Justin	NNP
+16	Justin	JJ
 17	,	,
 18	on	IN
 19	the	DT
@@ -115327,7 +115327,7 @@
 9	suit	NN
 10	.	.
 
-1	Off	IN
+1	Off	NNP
 2	and	CC
 3	on	IN
 4	since	IN
@@ -115560,7 +115560,7 @@
 10	in	IN
 11	.	.
 
-1	@	SYM
+1	@	NNP
 2	Charles	NNP
 3	H.	NNP
 4	Tenney	NNP
@@ -115750,7 +115750,7 @@
 10	's	POS
 11	capital	NN
 12	for	IN
-13	1,015	CD
+13	1,015	NNP
 14	francs	NNS
 15	(	-LRB-
 16	$	$
@@ -115858,8 +115858,8 @@
 12	Rocha	NNP
 13	Garza	NNP
 14	said	VBD
-15	Biscayne	NNP
-16	Syndicate	NNP
+15	Biscayne	CD
+16	Syndicate	CD
 17	Inc.	NNP
 18	,	,
 19	Lahus	NNP
@@ -116173,7 +116173,7 @@
 11	,	,
 12	Calif.	NNP
 13	,	,
-14	title-insurance	JJ
+14	title-insurance	NNP
 15	underwriter	NN
 16	,	,
 17	are	VBP
@@ -116284,7 +116284,7 @@
 24	a	DT
 25	reason	NN
 26	for	IN
-27	halting	VBG
+27	halting	NNP
 28	its	PRP$
 29	plan	NN
 30	to	TO
@@ -116670,7 +116670,7 @@
 9	an	DT
 10	additional	JJ
 11	340	CD
-12	trainer	NN
+12	trainer	CD
 13	aircraft	NN
 14	to	TO
 15	replace	VB
@@ -116850,9 +116850,9 @@
 20	Mulhouse	NNP
 21	after	IN
 22	voting	VBG
-23	589	CD
+23	589	JJ
 24	to	TO
-25	193	CD
+25	193	VB
 26	to	TO
 27	abandon	VB
 28	the	DT
@@ -116898,7 +116898,7 @@
 12	and	CC
 13	other	JJ
 14	civil	JJ
-15	servants	NNS
+15	servants	NN
 16	attached	VBN
 17	to	TO
 18	the	DT
@@ -116975,7 +116975,7 @@
 23	year	NN
 24	,	,
 25	practically	RB
-26	vanished	VBN
+26	vanished	JJ
 27	Friday	NNP
 28	.	.
 
@@ -117101,7 +117101,7 @@
 11	that	IN
 12	produced	VBN
 13	the	DT
-14	deepest	JJS
+14	deepest	JJ
 15	one-day	JJ
 16	dive	NN
 17	in	IN
@@ -117210,7 +117210,7 @@
 16	%	NN
 17	bonds	NNS
 18	due	JJ
-19	2002	CD
+19	2002	NN
 20	--	:
 21	sold	VBN
 22	less	RBR
@@ -118185,7 +118185,7 @@
 22	financed	VBN
 23	on	IN
 24	a	DT
-25	shoestring	NN
+25	shoestring	JJ
 26	that	IN
 27	people	NNS
 28	are	VBP
@@ -118616,7 +118616,7 @@
 38	securities	NNS
 39	.	.
 
-1	Meantime	RB
+1	Meantime	NNP
 2	,	,
 3	regulators	NNS
 4	are	VBP
@@ -118632,7 +118632,7 @@
 14	no	DT
 15	signs	NNS
 16	of	IN
-17	abating	VBG
+17	abating	NNP
 18	.	.
 
 1	Moody	NNP
@@ -118740,7 +118740,7 @@
 17	interest	NN
 18	.	.
 
-1	Businesses	NNS
+1	Businesses	NNP
 2	were	VBD
 3	borrowing	VBG
 4	at	IN
@@ -118914,7 +118914,7 @@
 1	Bond	NNP
 2	prices	NNS
 3	barely	RB
-4	budged	VBN
+4	budged	JJ
 5	until	IN
 6	midday	NN
 7	.	.
@@ -118967,7 +118967,7 @@
 3	municipals	NNS
 4	,	,
 5	investment-grade	JJ
-6	corporates	NNS
+6	corporates	NN
 7	and	CC
 8	mortgage-backed	JJ
 9	bonds	NNS
@@ -119107,7 +119107,7 @@
 2	rumors	NNS
 3	that	IN
 4	the	DT
-5	TVA	NNP
+5	TVA	JJ
 6	's	POS
 7	long-awaited	JJ
 8	offering	NN
@@ -119212,7 +119212,7 @@
 25	crash	NN
 26	,	,
 27	and	CC
-28	mechanisms	NNS
+28	mechanisms	NNP
 29	have	VBP
 30	been	VBN
 31	put	VBN
@@ -119295,7 +119295,7 @@
 8	wide	JJ
 9	that	IN
 10	one	CD
-11	faltering	VBG
+11	faltering	CD
 12	bid	NN
 13	is	VBZ
 14	no	DT
@@ -119453,7 +119453,7 @@
 12	sure	JJ
 13	,	,
 14	for	IN
-15	stripping	VBG
+15	stripping	NNP
 16	the	DT
 17	garbage	NN
 18	out	IN
@@ -119537,7 +119537,7 @@
 9	by	IN
 10	the	DT
 11	Panama	NNP
-12	fiasco	NN
+12	fiasco	NNP
 13	.	.
 
 1	To	TO
@@ -119612,7 +119612,7 @@
 23	safety	NN
 24	will	MD
 25	be	VB
-26	compromised	VBN
+26	compromised	JJ
 27	if	IN
 28	KLM	NNP
 29	and	CC
@@ -119846,7 +119846,7 @@
 10	because	IN
 11	of	IN
 12	tape	NN
-13	lags	VBZ
+13	lags	NN
 14	and	CC
 15	clearing	VBG
 16	and	CC
@@ -120241,7 +120241,7 @@
 40	The	DT
 41	scandals	NNS
 42	still	RB
-43	encircling	VBG
+43	encircling	JJ
 44	former	JJ
 45	Prime	NNP
 46	Minister	NNP
@@ -120501,7 +120501,7 @@
 43	he	PRP
 44	is	VBZ
 45	fighting	VBG
-46	extradition	NN
+46	extradition	JJ
 47	proceedings	NNS
 48	that	IN
 49	would	MD
@@ -120555,7 +120555,7 @@
 6	and	CC
 7	Communist	NNP
 8	parties	NNS
-9	herald	VB
+9	herald	JJ
 10	his	PRP$
 11	assertions	NNS
 12	as	IN
@@ -120955,9 +120955,9 @@
 18	out	RP
 19	its	PRP$
 20	leftist	JJ
-21	tenets	NNS
+21	tenets	NN
 22	by	IN
-23	collaborating	VBG
+23	collaborating	NNP
 24	in	IN
 25	a	DT
 26	right-wing	JJ
@@ -121205,7 +121205,7 @@
 4	concern	NN
 5	is	VBZ
 6	the	DT
-7	extradition	NN
+7	extradition	JJ
 8	of	IN
 9	Mohammed	NNP
 10	Rashid	NNP
@@ -121222,7 +121222,7 @@
 21	for	IN
 22	the	DT
 23	1982	CD
-24	bombing	NN
+24	bombing	CD
 25	of	IN
 26	a	DT
 27	Pan	NNP
@@ -121239,7 +121239,7 @@
 6	in	IN
 7	favor	NN
 8	of	IN
-9	extradition	NN
+9	extradition	NNP
 10	in	IN
 11	the	DT
 12	Rashid	JJ
@@ -121272,7 +121272,7 @@
 11	case	NN
 12	as	IN
 13	a	DT
-14	litmus	NN
+14	litmus	JJ
 15	test	NN
 16	of	IN
 17	whether	IN
@@ -121402,7 +121402,7 @@
 18	against	IN
 19	PASOK	NNP
 20	,	,
-21	forgetting	VBG
+21	forgetting	NNP
 22	to	TO
 23	tend	VB
 24	to	TO
@@ -121459,7 +121459,7 @@
 23	view	VB
 24	him	PRP
 25	as	RB
-26	sidelined	VBN
+26	sidelined	JJ
 27	,	,
 28	but	CC
 29	certainly	RB
@@ -122043,7 +122043,7 @@
 4	2569.26	JJ
 5	,	,
 6	off	RB
-7	190.58	CD
+7	190.58	JJ
 8	;	:
 9	transportation	NN
 10	1406.29	NN
@@ -122078,14 +122078,14 @@
 7	129.87	NN
 8	,	,
 9	up	RB
-10	0.01	CD
+10	0.01	JJ
 11	;	:
 12	spot	NN
 13	index	NN
 14	129.25	NN
 15	,	,
 16	up	RB
-17	0.28	CD
+17	0.28	JJ
 18	.	.
 
 1	Dollar	NNP
@@ -122252,7 +122252,7 @@
 12	company	NN
 13	circulated	VBD
 14	internal	JJ
-15	memos	NNS
+15	memos	NN
 16	indicating	VBG
 17	problems	NNS
 18	with	IN
@@ -122565,7 +122565,7 @@
 21	petitioned	NN
 22	for	IN
 23	a	DT
-24	rehearing	NN
+24	rehearing	JJ
 25	of	IN
 26	the	DT
 27	case	NN
@@ -122577,7 +122577,7 @@
 4	``	``
 5	The	DT
 6	opinion	NN
-7	establishes	VBZ
+7	establishes	NN
 8	a	DT
 9	new	JJ
 10	rule	NN
@@ -122828,7 +122828,7 @@
 21	USFL	JJ
 22	from	IN
 23	being	VBG
-24	reimbursed	VBN
+24	reimbursed	JJ
 25	.	.
 
 1	Antitrust	NNP
@@ -122839,7 +122839,7 @@
 6	parties	NNS
 7	may	MD
 8	be	VB
-9	reimbursed	VBN
+9	reimbursed	JJ
 10	for	IN
 11	lawyers	NNS
 12	'	POS
@@ -122971,7 +122971,7 @@
 27	.	.
 
 1	The	DT
-2	affiliation	NN
+2	affiliation	JJ
 3	is	VBZ
 4	believed	VBN
 5	to	TO
@@ -123473,7 +123473,7 @@
 4	a	DT
 5	$	$
 6	150	CD
-7	rebate	NN
+7	rebate	CD
 8	on	IN
 9	its	PRP$
 10	Apple	NNP
@@ -125063,7 +125063,7 @@
 9	running	VBG
 10	in	IN
 11	approximately	RB
-12	140,000	CD
+12	140,000	JJ
 13	issues	NNS
 14	of	IN
 15	the	DT
@@ -125579,7 +125579,7 @@
 11	to	TO
 12	its	PRP$
 13	existing	JJ
-14	LDC	NNP
+14	LDC	NN
 15	and	CC
 16	general	JJ
 17	loss	NN
@@ -126463,7 +126463,7 @@
 8	Glass	NNP
 9	purchase	NN
 10	and	CC
-11	refinance	VB
+11	refinance	NNP
 12	existing	VBG
 13	debt	NN
 14	,	,
@@ -126738,7 +126738,7 @@
 18	drop	NN
 19	.	.
 
-1	Potential	JJ
+1	Potential	NNP
 2	bidders	NNS
 3	for	IN
 4	companies	NNS
@@ -126985,7 +126985,7 @@
 9	Upjohn	NNP
 10	,	,
 11	down	RB
-12	11.1	CD
+12	11.1	JJ
 13	%	NN
 14	;	:
 15	Campbell	NNP
@@ -127124,7 +127124,7 @@
 5	delayed	VBN
 6	and	CC
 7	then	RB
-8	shelved	VBD
+8	shelved	JJ
 9	a	DT
 10	$	$
 11	400	CD
@@ -127263,7 +127263,7 @@
 13	.	.
 
 1	Hilton	NNP
-2	Hotels	NNPS
+2	Hotels	NNP
 3	,	,
 4	for	IN
 5	example	NN
@@ -127436,7 +127436,7 @@
 36	a	DT
 37	slow	JJ
 38	and	CC
-39	deliberate	JJ
+39	deliberate	NNP
 40	process	NN
 41	.	.
 42	''	''
@@ -127747,7 +127747,7 @@
 10	region	NN
 11	's	POS
 12	economy	NN
-13	rebounds	VBZ
+13	rebounds	NN
 14	from	IN
 15	a	DT
 16	slowdown	NN
@@ -128003,7 +128003,7 @@
 6	drop	NN
 7	and	CC
 8	then	RB
-9	flatten	VB
+9	flatten	JJ
 10	in	IN
 11	the	DT
 12	years	NNS
@@ -128185,7 +128185,7 @@
 5	were	VBD
 6	added	VBN
 7	in	IN
-8	metro	NN
+8	metro	NNP
 9	Houston	NNP
 10	last	JJ
 11	year	NN
@@ -128211,7 +128211,7 @@
 6	the	DT
 7	top	JJ
 8	five	CD
-9	metro	NN
+9	metro	CD
 10	areas	NNS
 11	in	IN
 12	the	DT
@@ -128453,7 +128453,7 @@
 36	a	DT
 37	major	JJ
 38	beltway	NN
-39	encircling	VBG
+39	encircling	NN
 40	the	DT
 41	metropolitan	JJ
 42	area	NN
@@ -129083,7 +129083,7 @@
 17	Lincoln	NNP
 18	was	VBD
 19	gambling	VBG
-20	dangerously	RB
+20	dangerously	JJ
 21	with	IN
 22	depositors	NNS
 23	'	POS
@@ -129409,7 +129409,7 @@
 17	American	NNP
 18	Continental	NNP
 19	as	IN
-20	reimbursement	NN
+20	reimbursement	NNP
 21	for	IN
 22	trips	NNS
 23	he	PRP
@@ -129635,7 +129635,7 @@
 27	for	IN
 28	a	DT
 29	1986	CD
-30	get-out-the-vote	JJ
+30	get-out-the-vote	CD
 31	drive	NN
 32	that	IN
 33	benefited	VBN
@@ -129868,7 +129868,7 @@
 15	to	TO
 16	be	VB
 17	fully	RB
-18	exonerated	VBD
+18	exonerated	JJ
 19	.	.
 20	''	''
 
@@ -130003,7 +130003,7 @@
 13	coal	NN
 14	rail	NN
 15	cars	NNS
-16	presently	RB
+16	presently	JJ
 17	being	VBG
 18	produced	VBN
 19	for	IN
@@ -130331,7 +130331,7 @@
 28	made	VBN
 29	China	NNP
 30	's	POS
-31	Guangdong	NNP
+31	Guangdong	JJ
 32	province	NN
 33	a	DT
 34	premier	NN
@@ -130699,7 +130699,7 @@
 
 1	The	DT
 2	industry	NN
-3	regards	VBZ
+3	regards	NN
 4	last	JJ
 5	year	NN
 6	and	CC
@@ -131060,7 +131060,7 @@
 4	manufacturers	NNS
 5	and	CC
 6	other	JJ
-7	industrialists	NNS
+7	industrialists	NN
 8	say	VBP
 9	Beijing	NNP
 10	will	MD
@@ -131070,7 +131070,7 @@
 14	tightening	VBG
 15	controls	NNS
 16	on	IN
-17	export-oriented	JJ
+17	export-oriented	NNP
 18	southern	JJ
 19	China	NNP
 20	.	.
@@ -131337,7 +131337,7 @@
 29	``	``
 30	reasonable	JJ
 31	''	''
-32	justification	NN
+32	justification	NNP
 33	for	IN
 34	adopting	VBG
 35	it	PRP
@@ -132131,7 +132131,7 @@
 5	push	NN
 6	may	MD
 7	only	RB
-8	aggravate	VB
+8	aggravate	JJ
 9	an	DT
 10	increasingly	RB
 11	bitter	JJ
@@ -132210,7 +132210,7 @@
 29	vociferous	JJ
 30	opponent	NN
 31	of	IN
-32	rescinding	VBG
+32	rescinding	NNP
 33	the	DT
 34	rules	NNS
 35	.	.
@@ -132811,7 +132811,7 @@
 12	--	:
 13	possibly	RB
 14	raising	VBG
-15	hackles	NNS
+15	hackles	JJ
 16	at	IN
 17	the	DT
 18	studios	NNS
@@ -132868,8 +132868,8 @@
 2	rules	NNS
 3	do	VBP
 4	n't	RB
-5	explicitly	RB
-6	block	VB
+5	explicitly	JJ
+6	block	NN
 7	a	DT
 8	network	NN
 9	from	IN
@@ -132963,7 +132963,7 @@
 13	chunk	NN
 14	of	IN
 15	the	DT
-16	riches	NNS
+16	riches	JJ
 17	of	IN
 18	syndication	NN
 19	.	.
@@ -133069,7 +133069,7 @@
 8	.	.
 
 1	The	DT
-2	Reagan-era	NN
+2	Reagan-era	JJ
 3	Federal	NNP
 4	Communications	NNPS
 5	Commission	NNP
@@ -133085,7 +133085,7 @@
 15	rules	NNS
 16	.	.
 
-1	Various	JJ
+1	Various	NNP
 2	evidence	NN
 3	,	,
 4	including	VBG
@@ -133715,7 +133715,7 @@
 24	the	DT
 25	cost	NN
 26	of	IN
-27	abandoning	VBG
+27	abandoning	NNP
 28	a	DT
 29	computer-systems	JJ
 30	joint	JJ
@@ -133863,7 +133863,7 @@
 25	growth	NN
 26	of	IN
 27	its	PRP$
-28	80386	CD
+28	80386	JJ
 29	microprocessor	NN
 30	,	,
 31	start-up	JJ
@@ -133922,7 +133922,7 @@
 4	as	IN
 5	the	DT
 6	quarter	NN
-7	progressed	VBD
+7	progressed	NN
 8	and	CC
 9	September	NNP
 10	was	VBD
@@ -134029,7 +134029,7 @@
 13	secretary-general	NN
 14	of	IN
 15	the	DT
-16	liberation	NN
+16	liberation	JJ
 17	movement	NN
 18	,	,
 19	was	VBD
@@ -134093,7 +134093,7 @@
 1	And	CC
 2	as	IN
 3	the	DT
-4	graying	NN
+4	graying	JJ
 5	men	NNS
 6	returned	VBD
 7	to	TO
@@ -134147,7 +134147,7 @@
 9	green	JJ
 10	and	CC
 11	gold	NN
-12	stripes	NNS
+12	stripes	NN
 13	,	,
 14	was	VBD
 15	hoisted	CD
@@ -134433,7 +134433,7 @@
 18	jammed	VBD
 19	into	IN
 20	the	DT
-21	Holy	NNP
+21	Holy	JJ
 22	Cross	NNP
 23	Anglican	NNP
 24	Church	NNP
@@ -134629,7 +134629,7 @@
 13	uncertainty	NN
 14	in	IN
 15	this	DT
-16	racially	RB
+16	racially	JJ
 17	divided	VBN
 18	country	NN
 19	.	.
@@ -134969,7 +134969,7 @@
 16	country	NN
 17	's	POS
 18	many	JJ
-19	militant	JJ
+19	militant	NN
 20	black	JJ
 21	youths	NN
 22	,	,
